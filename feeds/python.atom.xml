@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Bungeer</title><link href="/" rel="alternate"></link><link href="/feeds/python.atom.xml" rel="self"></link><id>/</id><updated>2010-12-03T10:20:00+08:00</updated><entry><title>Schedule</title><link href="/schedule.html" rel="alternate"></link><updated>2010-12-03T10:20:00+08:00</updated><author><name>king6cong</name></author><id>tag:,2010-12-03:schedule.html</id><summary type="html">&lt;h1&gt;project &lt;em&gt;bungee&lt;/em&gt;&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Bungeer</title><link href="http://king6cong.github.io/blog/" rel="alternate"></link><link href="http://king6cong.github.io/blog/feeds/python.atom.xml" rel="self"></link><id>http://king6cong.github.io/blog/</id><updated>2010-12-03T10:20:00+08:00</updated><entry><title>Schedule</title><link href="http://king6cong.github.io/blog/schedule.html" rel="alternate"></link><updated>2010-12-03T10:20:00+08:00</updated><author><name>king6cong</name></author><id>tag:king6cong.github.io/blog,2010-12-03:schedule.html</id><summary type="html">&lt;h1&gt;project &lt;em&gt;bungee&lt;/em&gt;&lt;/h1&gt;
 &lt;h1&gt;Bungeer项目的诞生&lt;/h1&gt;
 &lt;h2&gt;server&lt;/h2&gt;
 &lt;p&gt;a. server

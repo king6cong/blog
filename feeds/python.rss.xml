@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bungeer</title><link>/</link><description></description><atom:link href="/feeds/python.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 03 Dec 2010 10:20:00 +0800</lastBuildDate><item><title>Schedule</title><link>/schedule.html</link><description>&lt;h1&gt;project &lt;em&gt;bungee&lt;/em&gt;&lt;/h1&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bungeer</title><link>http://king6cong.github.io/blog/</link><description></description><atom:link href="http://king6cong.github.io/blog/feeds/python.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 03 Dec 2010 10:20:00 +0800</lastBuildDate><item><title>Schedule</title><link>http://king6cong.github.io/blog/schedule.html</link><description>&lt;h1&gt;project &lt;em&gt;bungee&lt;/em&gt;&lt;/h1&gt;
 &lt;h1&gt;Bungeer项目的诞生&lt;/h1&gt;
 &lt;h2&gt;server&lt;/h2&gt;
 &lt;p&gt;a. server
@@ -159,4 +159,4 @@ scp redis_3888.rdb&amp;nbsp;root@107.20.212.56:/root&lt;/p&gt;
 3.&amp;nbsp;tv&lt;/p&gt;
 &lt;p&gt;&lt;span class="caps"&gt;PYTHONUNBUFFERED&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;sudo pacman -S&amp;nbsp;nginx&lt;/p&gt;
-&lt;p&gt;pip install&amp;nbsp;Flask-Mail&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">king6cong</dc:creator><pubDate>Fri, 03 Dec 2010 10:20:00 +0800</pubDate><guid>tag:,2010-12-03:schedule.html</guid><category>tech</category><category>plan</category></item></channel></rss>
+&lt;p&gt;pip install&amp;nbsp;Flask-Mail&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">king6cong</dc:creator><pubDate>Fri, 03 Dec 2010 10:20:00 +0800</pubDate><guid>tag:king6cong.github.io/blog,2010-12-03:schedule.html</guid><category>tech</category><category>plan</category></item></channel></rss>
