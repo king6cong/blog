@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="cn">
+<head>
+
+        <title>Schedule</title>
+        <meta charset="utf-8" />
+        <link href="/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Bungeer Full Atom Feed" />
+        <link href="/feeds/all.rss.xml" type="application/rss+xml" rel="alternate" title="Bungeer Full RSS Feed" />
+        <link href="/feeds/python.atom.xml" type="application/atom+xml" rel="alternate" title="Bungeer Categories Atom Feed" />
+        <link href="/feeds/python.rss.xml" type="application/rss+xml" rel="alternate" title="Bungeer Categories RSS Feed" />
+
+
+        <!-- Mobile viewport optimized: j.mp/bplateviewport -->
+        <meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1">
+
+        <link rel="stylesheet" type="text/css" href="/theme/gumby.css" />
+        <link rel="stylesheet" type="text/css" href="/theme/style.css" />
+        <link rel="stylesheet" type="text/css" href="/theme/pygment.css" />
+
+        <script src="/theme/js/libs/modernizr-2.6.2.min.js"></script>
+
+
+
+
+
+
+</head>
+
+<body id="index" class="home">
+
+
+    <div class="container">
+
+        <div class="row">
+
+          <header id="banner" class="body">
+                  <h1><a href="">Bungeer <strong></strong></a></h1>
+          </header><!-- /#banner -->
+
+            <div id="navigation" class="navbar row">
+              <a href="#" gumby-trigger="#navigation &gt; ul" class="toggle"><i class="icon-menu"></i></a>
+             
+              <ul class="columns">
+                <li><a href="">Home</a></li>
+
+
+              </ul>
+            </div>
+
+<section id="content" class="body">
+
+   <div class="row">
+        <div class="eleven columns">
+
+
+            <header>
+              <h2 class="entry-title">
+                <a href="/schedule.html" rel="bookmark"
+                   title="Permalink to Schedule">Schedule</a></h2>
+           
+            </header>
+            <footer class="post-info">
+              <abbr class="published" title="2010-12-03T10:20:00">
+                2010-12-03(五)
+              </abbr>
+              <address class="vcard author">
+                By <a class="url fn" href="/author/king6cong.html">king6cong</a>
+              </address>
+            </footer><!-- /.post-info -->
+            <div class="entry-content">
+              <h1>project <em>bungee</em></h1>
+<h1>Bungeer项目的诞生</h1>
+<h2>server</h2>
+<p>a. server
+   1. restful
+   2. nginx
+   3.&nbsp;to-do</p>
+<h2>client</h2>
+<p>a. web
+   1. jquery/bootstrap
+   2. nodejs
+b. app
+   1. ios 
+   2.&nbsp;android</p>
+<h2>res</h2>
+<ol>
+<li>pic</li>
+<li>relation</li>
+</ol>
+<h2>mng</h2>
+<ol>
+<li>scm&nbsp;git</li>
+<li>python&nbsp;supervisor </li>
+</ol>
+<h3>python:</h3>
+<p>yaourt -S&nbsp;python2-pip</p>
+<h3>virtualenv:&nbsp;http://www.virtualenv.org/en/latest/</h3>
+<p>sudo pip2 install virtualenv
+virtualenv <span class="caps">ENV</span>
+virtualenv &#8212;system-site-packages <span class="caps">ENV</span>
+virtualenv &#8212;distribute <span class="caps">ENV</span>
+virtualenv &#8212;extra-search-dir=/path/to/dists &#8212;extra-search-dir=/path/to/other/dists <span class="caps">ENV</span>
+source bin/activate&nbsp;deactivate</p>
+<h3>pip-tools</h3>
+<p>https://github.com/nvie/pip-tools
+pip install&nbsp;pip-tools</p>
+<h3>gevent&nbsp;https://github.com/surfly/gevent</h3>
+<p>pip install cython -e&nbsp;git://github.com/surfly/gevent.git@1.0rc2#egg=gevent</p>
+<h3>git</h3>
+<h3>gunicorn&nbsp;http://gunicorn.org</h3>
+<p>pip install gunicorn
+gunicorn -w 4 -b :5000&nbsp;fv:app</p>
+<h3>nginx</h3>
+<p>pacman -S&nbsp;nginx</p>
+<h3>flask</h3>
+<p>pip install Flask
+pip install -e&nbsp;&#8216;git+http://github.com/sjl/flask-lesscss.git@v0.9.1#egg=flask-lesscss&#8217;</p>
+<p>pip install&nbsp;Flask-Coffee</p>
+<p>pip install flask-security&nbsp;flask-sqlalchemy</p>
+<h3>coffee</h3>
+<p>sudo npm install -g&nbsp;coffee-script</p>
+<h3>less&nbsp;http://lesscss.org/</h3>
+<p>sudo npm install -g less
+lessc styles.less&nbsp;styles.css</p>
+<h3>pip&nbsp;tips</h3>
+<p>pip uninstall&nbsp;flask-lesscss</p>
+<h3>https://github.com/blueimp/jQuery-File-Upload</h3>
+<h3>https://github.com/blueimp/JavaScript-Load-Image</h3>
+<h3>https://github.com/blueimp/JavaScript-Canvas-to-Blob</h3>
+<h3>riak</h3>
+<p>pip install&nbsp;riak</p>
+<h3>celery</h3>
+<p>pip install -U&nbsp;Celery</p>
+<h3>redis</h3>
+<p>pip install&nbsp;redis</p>
+<h3>rabbitmq</h3>
+<p>yaourt  -S rabbitmq
+pip install&nbsp;librabbitmq</p>
+<h3>flake8</h3>
+<p>pip install&nbsp;flake8</p>
+<h3>Fabric&nbsp;http://docs.fabfile.org</h3>
+<p>pip install fabric
+fab -i /mnt/air/Dropbox/diary/king6cong.pem -H localhost,www.chuckjane.com -f fabric_test.py host_type
+fab -f fabric_test.py&nbsp;host_type</p>
+<h3>git</h3>
+<p>git config &#8212;global user.name &#8220;king6cong&#8221;
+git config &#8212;global user.email&nbsp;king6cong@gmail.com</p>
+<p>git config &#8212;global core.editor&nbsp;vim</p>
+<p>git config &#8212;global alias.st status
+git config &#8212;global alias.co checkout
+git config &#8212;global alias.br branch
+git config &#8212;global alias.up rebase
+git config &#8212;global alias.ci&nbsp;commit</p>
+<p>git config &#8212;global &#8212;edit
+git log &#8212;author=&#8221;John Smith&#8221; -p hello.py
+git log &#8212;oneline master..some-feature
+git log &#8212;grep=&#8221;<pattern>&#8221;
+git log -p
+git log &#8212;stat
+git log &#8212;oneline
+git log -n <limit></p>
+<h3>http://python-rq.org</h3>
+<p>pip install&nbsp;rq</p>
+<h3>git&nbsp;tips</h3>
+<p>mkdir /path/to/your/project
+git init
+git remote add origin&nbsp;https://king6cong@bitbucket.org/king6cong/bungee.git</p>
+<p>git remote add origin https://king6cong@bitbucket.org/king6cong/bungee.git
+git push -u origin &#8212;all   # to push changes for the first&nbsp;time</p>
+<p>git reset &#8212;hard
+git clean -f
+git clean&nbsp;-dfx</p>
+<p>git branch
+git branch <branch>
+git branch -d <branch>
+git branch -D <branch>
+git branch -m <branch></p>
+<p>git checkout <commit> <file>
+git checkout <commit>
+git checkout <existing-branch>
+git checkout -b <new-branch>
+git checkout -b <new-branch> <existing-branch></p>
+<p>git commit &#8212;amend
+git commit &#8212;amend &#8212;no-edit
+android update&nbsp;adb</p>
+<p>git remote
+git remote -v
+git remote add <name> <url>
+git remote rm <name>
+git remote rename <old-name> <new-name></p>
+<p>git checkout master
+git fetch origin master
+git rebase -i&nbsp;origin/master</p>
+<h1>Squash commits, fix up commit messages&nbsp;etc.</h1>
+<p>git push origin&nbsp;master</p>
+<p>git clone&nbsp;git@github.com:king6cong/flask.git</p>
+<h3>pelican&nbsp;https://github.com/getpelican/pelican</h3>
+<p>pip install pelican Markdown
+pip install&nbsp;ghp-import</p>
+<h3>nltk</h3>
+<p>sudo pip install -U pyyaml nltk
+python -m nltk.downloader -d&nbsp;/Users/cong/store/nltk</p>
+<h3>sass</h3>
+<p>gem install&nbsp;sass</p>
+<h3>PyMC</h3>
+<p>pip install&nbsp;pymc</p>
+<p>sudo pacman -S&nbsp;gcc-fortran</p>
+<h3>popup</h3>
+<p>http://dimsemenov.com/plugins/magnific-popup/</p>
+<p>sudo pip install requests
+sudo pip install scrapy
+sudo pip install ujson
+sudo pip install&nbsp;beautifulsoup4</p>
+<p>sudo pacman -S sqlite
+sudo pacman -S&nbsp;svn</p>
+<p>svn checkout http://py-leveldb.googlecode.com/svn/trunk/ py-leveldb-read-only
+cd py-leveldb-read-only
+./compile_leveldb.sh
+python setup.py build
+sudo python setup.py&nbsp;install</p>
+<p>gunicorn gserver:http_server -k gevent -b 127.0.0.1:80
+gunicorn app:app -k gevent -b 0.0.0.0:80 &#8212;debug
+scp redis_3888.rdb&nbsp;root@107.20.212.56:/root</p>
+<h3>basic</h3>
+<p>play video
+1. iqiyi youku tudou sohu qq sina || mp4 m3u8 flv || stream download || notify || continue || web android ios
+2. comment || chat
+3.&nbsp;tv</p>
+<p><span class="caps">PYTHONUNBUFFERED</span></p>
+<p>sudo pacman -S&nbsp;nginx</p>
+<p>pip install&nbsp;Flask-Mail</p>
+            </div><!-- /.entry-content -->
+            <div class="comments">
+              <h3>Comments</h3>
+              <div id="disqus_thread"></div>
+              <script type="text/javascript">
+                var disqus_identifier = "schedule.html";
+                (function() {
+                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                dsq.src = 'http://bungeer.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                })();
+              </script>
+            </div>
+
+
+        </div><!-- /.eleven.columns -->
+        
+<div class="three columns">
+
+<h4>Pages</h4>
+
+ <ul>
+  </ul>
+
+<h4>Categories</h4>
+<ul>
+		<li><a href="/category/python.html">Python</a></li>
+		<li><a href="/category/thinking.html">Thinking</a></li>
+</ul>
+
+
+<h4>Tags</h4>
+	<ul>
+	    <li class="tag-4"><a href="/tag/plan.html">plan</a></li>
+	    <li class="tag-4"><a href="/tag/blog.html">blog</a></li>
+	    <li class="tag-4"><a href="/tag/tech.html">tech</a></li>
+</ul>
+
+
+<nav class="widget">
+  <h4>Social</h4>
+  <ul>
+    <li><a href="http://weibo.com/u/2516756763">新浪微博</a></li>
+    <li><a href="http://t.qq.com/king6cong">腾讯微博</a></li>
+  </ul>
+</nav>
+
+</div> </div><!-- /.row -->
+
+
+</section>
+
+       </div><!-- /.row -->
+    </div><!-- /.container -->
+
+
+       <div class="container.nopad bg">
+
+    
+        <footer id="credits" class="row">
+          <div class="seven columns left-center">
+
+                   <address id="about" class="vcard body">
+                    Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
+                    which takes great advantage of <a href="http://python.org">Python</a>.
+                    <br />
+                    Based on the <a target="_blank" href="http://gumbyframework.com">Gumby Framework</a>
+                    </address>
+          </div>
+
+
+          <div class="seven columns">
+            <div class="row">
+              <ul class="socbtns">
+
+                <li><div class="btn primary"><a href="https://github.com/king6cong" target="_blank">Github</a></div></li>
+
+
+
+
+              </ul>
+            </div>
+          </div>
+        </footer>
+
+    </div>
+
+
+<script type="text/javascript">
+    var disqus_shortname = 'bungeer';
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+  <script src="/theme/js/libs/jquery-1.9.1.min.js"></script>
+  <script src="/theme/js/libs/gumby.min.js"></script>
+  <script src="/theme/js/plugins.js"></script>
+
+</body>
+</html>

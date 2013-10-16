@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bungeer</title><link>/</link><description></description><atom:link href="/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 16 Oct 2013 13:38:02 +0800</lastBuildDate><item><title>Why this blog is opened</title><link>/why-this-blog-is-opened.html</link><description>&lt;h1&gt;This is an&amp;nbsp;H1&lt;/h1&gt;
+&lt;h2&gt;This is an&amp;nbsp;H2&lt;/h2&gt;
+&lt;h6&gt;This is an&amp;nbsp;H6&lt;/h6&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;This is a list item with two paragraphs. Lorem ipsum dolor
+    sit amet, consectetuer adipiscing elit. Aliquam hendrerit
+    mi posuere&amp;nbsp;lectus.&lt;/p&gt;
+&lt;p&gt;Vestibulum enim wisi, viverra nec, fringilla in, laoreet
+vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
+sit amet&amp;nbsp;velit.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Suspendisse id sem consectetuer libero luctus&amp;nbsp;adipiscing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;4&amp;lt;5&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
+consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
+Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae,&amp;nbsp;risus.&lt;/p&gt;
+&lt;p&gt;Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
+id sem consectetuer libero luctus&amp;nbsp;adipiscing.&lt;/p&gt;
+&lt;p&gt;This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
+consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
+Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae,&amp;nbsp;risus.&lt;/p&gt;
+&lt;p&gt;Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
+id sem consectetuer libero luctus&amp;nbsp;adipiscing.&lt;/p&gt;
+&lt;p&gt;This is the first level of&amp;nbsp;quoting.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is nested&amp;nbsp;blockquote.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Back to the first&amp;nbsp;level.&lt;/p&gt;
+&lt;h2&gt;This is a&amp;nbsp;header.&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;This is the first list&amp;nbsp;item.&lt;/li&gt;
+&lt;li&gt;This is the second list&amp;nbsp;item.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Here&amp;#8217;s some example&amp;nbsp;code:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="nf"&gt;shell_exec&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;echo $input | $markdown_script&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;/blockquote&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;  &lt;span class="mf"&gt;1.&lt;/span&gt;  &lt;span class="n"&gt;Bird&lt;/span&gt;
+  &lt;span class="mf"&gt;1.&lt;/span&gt;  &lt;span class="n"&gt;McHale&lt;/span&gt;
+  &lt;span class="mf"&gt;1.&lt;/span&gt;  &lt;span class="n"&gt;Parish&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;ol&gt;
+&lt;li&gt;Bird&lt;/li&gt;
+&lt;li&gt;McHale&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Parish&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bird&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;McHale&lt;/li&gt;
+&lt;li&gt;Parish&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr /&gt;
+&lt;ul&gt;
+&lt;li&gt;Red&lt;/li&gt;
+&lt;li&gt;Green&lt;/li&gt;
+&lt;li&gt;Blue&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;This is a normal&amp;nbsp;paragraph:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;code&lt;/span&gt; &lt;span class="n"&gt;block&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Here is an example of&amp;nbsp;AppleScript:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;tell&lt;/span&gt; &lt;span class="n"&gt;application&lt;/span&gt; &lt;span class="s"&gt;&amp;quot;Foo&amp;quot;&lt;/span&gt;
+    &lt;span class="n"&gt;beep&lt;/span&gt;
+&lt;span class="n"&gt;end&lt;/span&gt; &lt;span class="n"&gt;tell&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;This is &lt;a href="http://example.com/" title="Title"&gt;an example&lt;/a&gt; inline&amp;nbsp;link.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://example.net/"&gt;This link&lt;/a&gt; has no title&amp;nbsp;attribute.&lt;/p&gt;
+&lt;p&gt;See my &lt;a href="/about/"&gt;About&lt;/a&gt; page for&amp;nbsp;details. &lt;/p&gt;
+&lt;p&gt;See my &lt;a href="/schedule"&gt;Schedule&lt;/a&gt; page for&amp;nbsp;details. &lt;/p&gt;
+&lt;p&gt;This is &lt;a href="/images/ic_launcher_clean.png" title="Optional title attribute"&gt;an example&lt;/a&gt; reference-style&amp;nbsp;link.&lt;/p&gt;
+&lt;p&gt;I get 10 times more traffic from &lt;a href="http://google.com/" title="Google"&gt;Google&lt;/a&gt; than from
+&lt;a href="http://search.yahoo.com/" title="Yahoo Search"&gt;Yahoo&lt;/a&gt; or &lt;a href="http://search.msn.com/" title="MSN Search"&gt;&lt;span class="caps"&gt;MSN&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I get 10 times more traffic from &lt;a href="http://google.com/" title="Google"&gt;Google&lt;/a&gt; than from
+&lt;a href="http://search.yahoo.com/" title="Yahoo Search"&gt;Yahoo&lt;/a&gt; or &lt;a href="http://search.msn.com/" title="MSN Search"&gt;&lt;span class="caps"&gt;MSN&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;single&amp;nbsp;asterisks&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;double&amp;nbsp;asterisks&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;un&lt;em&gt;frigging&lt;/em&gt;believable&lt;/p&gt;
+&lt;p&gt;*this text is surrounded by literal&amp;nbsp;asterisks*&lt;/p&gt;
+&lt;p&gt;Use the &lt;code&gt;printf()&lt;/code&gt; function.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;There is a literal backtick (`) here.&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;A single backtick in a code span: &lt;code&gt;`&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;A backtick-delimited string in a code span: &lt;code&gt;`foo`&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Please don&amp;#8217;t use any &lt;code&gt;&amp;lt;blink&amp;gt;&lt;/code&gt; tags.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&amp;amp;#8212;&lt;/code&gt; is the decimal-encoded equivalent of &lt;code&gt;&amp;amp;mdash;&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Alt text" src="/images/ic_launcher_clean.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Alt text" src="/images/ic_launcher_clean.png" title="Optional title" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Alt text" src="/images/ic_launcher_clean.png" title="Optional title attribute" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://example.com/"&gt;http://example.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#116;&amp;#111;&amp;#58;&amp;#97;&amp;#100;&amp;#100;&amp;#114;&amp;#101;&amp;#115;&amp;#115;&amp;#64;&amp;#101;&amp;#120;&amp;#97;&amp;#109;&amp;#112;&amp;#108;&amp;#101;&amp;#46;&amp;#99;&amp;#111;&amp;#109;"&gt;&amp;#97;&amp;#100;&amp;#100;&amp;#114;&amp;#101;&amp;#115;&amp;#115;&amp;#64;&amp;#101;&amp;#120;&amp;#97;&amp;#109;&amp;#112;&amp;#108;&amp;#101;&amp;#46;&amp;#99;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">king6cong</dc:creator><pubDate>Wed, 16 Oct 2013 13:38:02 +0800</pubDate><guid>tag:,2013-10-16:why-this-blog-is-opened.html</guid><category>blog</category></item><item><title>Schedule</title><link>/schedule.html</link><description>&lt;h1&gt;project &lt;em&gt;bungee&lt;/em&gt;&lt;/h1&gt;
+&lt;h1&gt;Bungeer项目的诞生&lt;/h1&gt;
+&lt;h2&gt;server&lt;/h2&gt;
+&lt;p&gt;a. server
+   1. restful
+   2. nginx
+   3.&amp;nbsp;to-do&lt;/p&gt;
+&lt;h2&gt;client&lt;/h2&gt;
+&lt;p&gt;a. web
+   1. jquery/bootstrap
+   2. nodejs
+b. app
+   1. ios 
+   2.&amp;nbsp;android&lt;/p&gt;
+&lt;h2&gt;res&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;pic&lt;/li&gt;
+&lt;li&gt;relation&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;mng&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;scm&amp;nbsp;git&lt;/li&gt;
+&lt;li&gt;python&amp;nbsp;supervisor &lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;python:&lt;/h3&gt;
+&lt;p&gt;yaourt -S&amp;nbsp;python2-pip&lt;/p&gt;
+&lt;h3&gt;virtualenv:&amp;nbsp;http://www.virtualenv.org/en/latest/&lt;/h3&gt;
+&lt;p&gt;sudo pip2 install virtualenv
+virtualenv &lt;span class="caps"&gt;ENV&lt;/span&gt;
+virtualenv &amp;#8212;system-site-packages &lt;span class="caps"&gt;ENV&lt;/span&gt;
+virtualenv &amp;#8212;distribute &lt;span class="caps"&gt;ENV&lt;/span&gt;
+virtualenv &amp;#8212;extra-search-dir=/path/to/dists &amp;#8212;extra-search-dir=/path/to/other/dists &lt;span class="caps"&gt;ENV&lt;/span&gt;
+source bin/activate&amp;nbsp;deactivate&lt;/p&gt;
+&lt;h3&gt;pip-tools&lt;/h3&gt;
+&lt;p&gt;https://github.com/nvie/pip-tools
+pip install&amp;nbsp;pip-tools&lt;/p&gt;
+&lt;h3&gt;gevent&amp;nbsp;https://github.com/surfly/gevent&lt;/h3&gt;
+&lt;p&gt;pip install cython -e&amp;nbsp;git://github.com/surfly/gevent.git@1.0rc2#egg=gevent&lt;/p&gt;
+&lt;h3&gt;git&lt;/h3&gt;
+&lt;h3&gt;gunicorn&amp;nbsp;http://gunicorn.org&lt;/h3&gt;
+&lt;p&gt;pip install gunicorn
+gunicorn -w 4 -b :5000&amp;nbsp;fv:app&lt;/p&gt;
+&lt;h3&gt;nginx&lt;/h3&gt;
+&lt;p&gt;pacman -S&amp;nbsp;nginx&lt;/p&gt;
+&lt;h3&gt;flask&lt;/h3&gt;
+&lt;p&gt;pip install Flask
+pip install -e&amp;nbsp;&amp;#8216;git+http://github.com/sjl/flask-lesscss.git@v0.9.1#egg=flask-lesscss&amp;#8217;&lt;/p&gt;
+&lt;p&gt;pip install&amp;nbsp;Flask-Coffee&lt;/p&gt;
+&lt;p&gt;pip install flask-security&amp;nbsp;flask-sqlalchemy&lt;/p&gt;
+&lt;h3&gt;coffee&lt;/h3&gt;
+&lt;p&gt;sudo npm install -g&amp;nbsp;coffee-script&lt;/p&gt;
+&lt;h3&gt;less&amp;nbsp;http://lesscss.org/&lt;/h3&gt;
+&lt;p&gt;sudo npm install -g less
+lessc styles.less&amp;nbsp;styles.css&lt;/p&gt;
+&lt;h3&gt;pip&amp;nbsp;tips&lt;/h3&gt;
+&lt;p&gt;pip uninstall&amp;nbsp;flask-lesscss&lt;/p&gt;
+&lt;h3&gt;https://github.com/blueimp/jQuery-File-Upload&lt;/h3&gt;
+&lt;h3&gt;https://github.com/blueimp/JavaScript-Load-Image&lt;/h3&gt;
+&lt;h3&gt;https://github.com/blueimp/JavaScript-Canvas-to-Blob&lt;/h3&gt;
+&lt;h3&gt;riak&lt;/h3&gt;
+&lt;p&gt;pip install&amp;nbsp;riak&lt;/p&gt;
+&lt;h3&gt;celery&lt;/h3&gt;
+&lt;p&gt;pip install -U&amp;nbsp;Celery&lt;/p&gt;
+&lt;h3&gt;redis&lt;/h3&gt;
+&lt;p&gt;pip install&amp;nbsp;redis&lt;/p&gt;
+&lt;h3&gt;rabbitmq&lt;/h3&gt;
+&lt;p&gt;yaourt  -S rabbitmq
+pip install&amp;nbsp;librabbitmq&lt;/p&gt;
+&lt;h3&gt;flake8&lt;/h3&gt;
+&lt;p&gt;pip install&amp;nbsp;flake8&lt;/p&gt;
+&lt;h3&gt;Fabric&amp;nbsp;http://docs.fabfile.org&lt;/h3&gt;
+&lt;p&gt;pip install fabric
+fab -i /mnt/air/Dropbox/diary/king6cong.pem -H localhost,www.chuckjane.com -f fabric_test.py host_type
+fab -f fabric_test.py&amp;nbsp;host_type&lt;/p&gt;
+&lt;h3&gt;git&lt;/h3&gt;
+&lt;p&gt;git config &amp;#8212;global user.name &amp;#8220;king6cong&amp;#8221;
+git config &amp;#8212;global user.email&amp;nbsp;king6cong@gmail.com&lt;/p&gt;
+&lt;p&gt;git config &amp;#8212;global core.editor&amp;nbsp;vim&lt;/p&gt;
+&lt;p&gt;git config &amp;#8212;global alias.st status
+git config &amp;#8212;global alias.co checkout
+git config &amp;#8212;global alias.br branch
+git config &amp;#8212;global alias.up rebase
+git config &amp;#8212;global alias.ci&amp;nbsp;commit&lt;/p&gt;
+&lt;p&gt;git config &amp;#8212;global &amp;#8212;edit
+git log &amp;#8212;author=&amp;#8221;John Smith&amp;#8221; -p hello.py
+git log &amp;#8212;oneline master..some-feature
+git log &amp;#8212;grep=&amp;#8221;&lt;pattern&gt;&amp;#8221;
+git log -p
+git log &amp;#8212;stat
+git log &amp;#8212;oneline
+git log -n &lt;limit&gt;&lt;/p&gt;
+&lt;h3&gt;http://python-rq.org&lt;/h3&gt;
+&lt;p&gt;pip install&amp;nbsp;rq&lt;/p&gt;
+&lt;h3&gt;git&amp;nbsp;tips&lt;/h3&gt;
+&lt;p&gt;mkdir /path/to/your/project
+git init
+git remote add origin&amp;nbsp;https://king6cong@bitbucket.org/king6cong/bungee.git&lt;/p&gt;
+&lt;p&gt;git remote add origin https://king6cong@bitbucket.org/king6cong/bungee.git
+git push -u origin &amp;#8212;all   # to push changes for the first&amp;nbsp;time&lt;/p&gt;
+&lt;p&gt;git reset &amp;#8212;hard
+git clean -f
+git clean&amp;nbsp;-dfx&lt;/p&gt;
+&lt;p&gt;git branch
+git branch &lt;branch&gt;
+git branch -d &lt;branch&gt;
+git branch -D &lt;branch&gt;
+git branch -m &lt;branch&gt;&lt;/p&gt;
+&lt;p&gt;git checkout &lt;commit&gt; &lt;file&gt;
+git checkout &lt;commit&gt;
+git checkout &lt;existing-branch&gt;
+git checkout -b &lt;new-branch&gt;
+git checkout -b &lt;new-branch&gt; &lt;existing-branch&gt;&lt;/p&gt;
+&lt;p&gt;git commit &amp;#8212;amend
+git commit &amp;#8212;amend &amp;#8212;no-edit
+android update&amp;nbsp;adb&lt;/p&gt;
+&lt;p&gt;git remote
+git remote -v
+git remote add &lt;name&gt; &lt;url&gt;
+git remote rm &lt;name&gt;
+git remote rename &lt;old-name&gt; &lt;new-name&gt;&lt;/p&gt;
+&lt;p&gt;git checkout master
+git fetch origin master
+git rebase -i&amp;nbsp;origin/master&lt;/p&gt;
+&lt;h1&gt;Squash commits, fix up commit messages&amp;nbsp;etc.&lt;/h1&gt;
+&lt;p&gt;git push origin&amp;nbsp;master&lt;/p&gt;
+&lt;p&gt;git clone&amp;nbsp;git@github.com:king6cong/flask.git&lt;/p&gt;
+&lt;h3&gt;pelican&amp;nbsp;https://github.com/getpelican/pelican&lt;/h3&gt;
+&lt;p&gt;pip install pelican Markdown
+pip install&amp;nbsp;ghp-import&lt;/p&gt;
+&lt;h3&gt;nltk&lt;/h3&gt;
+&lt;p&gt;sudo pip install -U pyyaml nltk
+python -m nltk.downloader -d&amp;nbsp;/Users/cong/store/nltk&lt;/p&gt;
+&lt;h3&gt;sass&lt;/h3&gt;
+&lt;p&gt;gem install&amp;nbsp;sass&lt;/p&gt;
+&lt;h3&gt;PyMC&lt;/h3&gt;
+&lt;p&gt;pip install&amp;nbsp;pymc&lt;/p&gt;
+&lt;p&gt;sudo pacman -S&amp;nbsp;gcc-fortran&lt;/p&gt;
+&lt;h3&gt;popup&lt;/h3&gt;
+&lt;p&gt;http://dimsemenov.com/plugins/magnific-popup/&lt;/p&gt;
+&lt;p&gt;sudo pip install requests
+sudo pip install scrapy
+sudo pip install ujson
+sudo pip install&amp;nbsp;beautifulsoup4&lt;/p&gt;
+&lt;p&gt;sudo pacman -S sqlite
+sudo pacman -S&amp;nbsp;svn&lt;/p&gt;
+&lt;p&gt;svn checkout http://py-leveldb.googlecode.com/svn/trunk/ py-leveldb-read-only
+cd py-leveldb-read-only
+./compile_leveldb.sh
+python setup.py build
+sudo python setup.py&amp;nbsp;install&lt;/p&gt;
+&lt;p&gt;gunicorn gserver:http_server -k gevent -b 127.0.0.1:80
+gunicorn app:app -k gevent -b 0.0.0.0:80 &amp;#8212;debug
+scp redis_3888.rdb&amp;nbsp;root@107.20.212.56:/root&lt;/p&gt;
+&lt;h3&gt;basic&lt;/h3&gt;
+&lt;p&gt;play video
+1. iqiyi youku tudou sohu qq sina || mp4 m3u8 flv || stream download || notify || continue || web android ios
+2. comment || chat
+3.&amp;nbsp;tv&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;PYTHONUNBUFFERED&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;sudo pacman -S&amp;nbsp;nginx&lt;/p&gt;
+&lt;p&gt;pip install&amp;nbsp;Flask-Mail&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">king6cong</dc:creator><pubDate>Fri, 03 Dec 2010 10:20:00 +0800</pubDate><guid>tag:,2010-12-03:schedule.html</guid><category>tech</category><category>plan</category></item></channel></rss>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bungeer</title><link>/</link><description></description><atom:link href="/feeds/thinking.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 16 Oct 2013 13:38:02 +0800</lastBuildDate><item><title>Why this blog is opened</title><link>/why-this-blog-is-opened.html</link><description>&lt;h1&gt;This is an&amp;nbsp;H1&lt;/h1&gt;
+&lt;h2&gt;This is an&amp;nbsp;H2&lt;/h2&gt;
+&lt;h6&gt;This is an&amp;nbsp;H6&lt;/h6&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;This is a list item with two paragraphs. Lorem ipsum dolor
+    sit amet, consectetuer adipiscing elit. Aliquam hendrerit
+    mi posuere&amp;nbsp;lectus.&lt;/p&gt;
+&lt;p&gt;Vestibulum enim wisi, viverra nec, fringilla in, laoreet
+vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
+sit amet&amp;nbsp;velit.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Suspendisse id sem consectetuer libero luctus&amp;nbsp;adipiscing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;4&amp;lt;5&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
+consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
+Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae,&amp;nbsp;risus.&lt;/p&gt;
+&lt;p&gt;Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
+id sem consectetuer libero luctus&amp;nbsp;adipiscing.&lt;/p&gt;
+&lt;p&gt;This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
+consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
+Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae,&amp;nbsp;risus.&lt;/p&gt;
+&lt;p&gt;Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
+id sem consectetuer libero luctus&amp;nbsp;adipiscing.&lt;/p&gt;
+&lt;p&gt;This is the first level of&amp;nbsp;quoting.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is nested&amp;nbsp;blockquote.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Back to the first&amp;nbsp;level.&lt;/p&gt;
+&lt;h2&gt;This is a&amp;nbsp;header.&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;This is the first list&amp;nbsp;item.&lt;/li&gt;
+&lt;li&gt;This is the second list&amp;nbsp;item.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Here&amp;#8217;s some example&amp;nbsp;code:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="nf"&gt;shell_exec&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;echo $input | $markdown_script&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;/blockquote&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;  &lt;span class="mf"&gt;1.&lt;/span&gt;  &lt;span class="n"&gt;Bird&lt;/span&gt;
+  &lt;span class="mf"&gt;1.&lt;/span&gt;  &lt;span class="n"&gt;McHale&lt;/span&gt;
+  &lt;span class="mf"&gt;1.&lt;/span&gt;  &lt;span class="n"&gt;Parish&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;ol&gt;
+&lt;li&gt;Bird&lt;/li&gt;
+&lt;li&gt;McHale&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Parish&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bird&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;McHale&lt;/li&gt;
+&lt;li&gt;Parish&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr /&gt;
+&lt;ul&gt;
+&lt;li&gt;Red&lt;/li&gt;
+&lt;li&gt;Green&lt;/li&gt;
+&lt;li&gt;Blue&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;This is a normal&amp;nbsp;paragraph:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;code&lt;/span&gt; &lt;span class="n"&gt;block&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Here is an example of&amp;nbsp;AppleScript:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;tell&lt;/span&gt; &lt;span class="n"&gt;application&lt;/span&gt; &lt;span class="s"&gt;&amp;quot;Foo&amp;quot;&lt;/span&gt;
+    &lt;span class="n"&gt;beep&lt;/span&gt;
+&lt;span class="n"&gt;end&lt;/span&gt; &lt;span class="n"&gt;tell&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;This is &lt;a href="http://example.com/" title="Title"&gt;an example&lt;/a&gt; inline&amp;nbsp;link.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://example.net/"&gt;This link&lt;/a&gt; has no title&amp;nbsp;attribute.&lt;/p&gt;
+&lt;p&gt;See my &lt;a href="/about/"&gt;About&lt;/a&gt; page for&amp;nbsp;details. &lt;/p&gt;
+&lt;p&gt;See my &lt;a href="/schedule"&gt;Schedule&lt;/a&gt; page for&amp;nbsp;details. &lt;/p&gt;
+&lt;p&gt;This is &lt;a href="/images/ic_launcher_clean.png" title="Optional title attribute"&gt;an example&lt;/a&gt; reference-style&amp;nbsp;link.&lt;/p&gt;
+&lt;p&gt;I get 10 times more traffic from &lt;a href="http://google.com/" title="Google"&gt;Google&lt;/a&gt; than from
+&lt;a href="http://search.yahoo.com/" title="Yahoo Search"&gt;Yahoo&lt;/a&gt; or &lt;a href="http://search.msn.com/" title="MSN Search"&gt;&lt;span class="caps"&gt;MSN&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I get 10 times more traffic from &lt;a href="http://google.com/" title="Google"&gt;Google&lt;/a&gt; than from
+&lt;a href="http://search.yahoo.com/" title="Yahoo Search"&gt;Yahoo&lt;/a&gt; or &lt;a href="http://search.msn.com/" title="MSN Search"&gt;&lt;span class="caps"&gt;MSN&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;single&amp;nbsp;asterisks&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;double&amp;nbsp;asterisks&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;un&lt;em&gt;frigging&lt;/em&gt;believable&lt;/p&gt;
+&lt;p&gt;*this text is surrounded by literal&amp;nbsp;asterisks*&lt;/p&gt;
+&lt;p&gt;Use the &lt;code&gt;printf()&lt;/code&gt; function.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;There is a literal backtick (`) here.&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;A single backtick in a code span: &lt;code&gt;`&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;A backtick-delimited string in a code span: &lt;code&gt;`foo`&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Please don&amp;#8217;t use any &lt;code&gt;&amp;lt;blink&amp;gt;&lt;/code&gt; tags.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&amp;amp;#8212;&lt;/code&gt; is the decimal-encoded equivalent of &lt;code&gt;&amp;amp;mdash;&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Alt text" src="/images/ic_launcher_clean.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Alt text" src="/images/ic_launcher_clean.png" title="Optional title" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Alt text" src="/images/ic_launcher_clean.png" title="Optional title attribute" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://example.com/"&gt;http://example.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#116;&amp;#111;&amp;#58;&amp;#97;&amp;#100;&amp;#100;&amp;#114;&amp;#101;&amp;#115;&amp;#115;&amp;#64;&amp;#101;&amp;#120;&amp;#97;&amp;#109;&amp;#112;&amp;#108;&amp;#101;&amp;#46;&amp;#99;&amp;#111;&amp;#109;"&gt;&amp;#97;&amp;#100;&amp;#100;&amp;#114;&amp;#101;&amp;#115;&amp;#115;&amp;#64;&amp;#101;&amp;#120;&amp;#97;&amp;#109;&amp;#112;&amp;#108;&amp;#101;&amp;#46;&amp;#99;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">king6cong</dc:creator><pubDate>Wed, 16 Oct 2013 13:38:02 +0800</pubDate><guid>tag:,2013-10-16:why-this-blog-is-opened.html</guid><category>blog</category></item></channel></rss>
