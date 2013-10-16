@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'king6cong'
 SITENAME = u'Bungeer'
 SITEURL = 'http://127.0.0.1:8000'
-SITEURL = ''
+SITEURL = 'http://king6cong.github.io/blog/'
 
 TIMEZONE = 'Asia/Shanghai'
 
