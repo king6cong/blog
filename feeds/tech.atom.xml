@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Bungeer</title><link href="http://blog.bungeer.com/" rel="alternate"></link><link href="http://blog.bungeer.com/feeds/tech.atom.xml" rel="self"></link><id>http://blog.bungeer.com/</id><updated>2013-10-17T01:10:10+08:00</updated><entry><title>Markdown</title><link href="http://blog.bungeer.com/markdown.html" rel="alternate"></link><updated>2013-10-17T01:10:10+08:00</updated><author><name>king6cong</name></author><id>tag:blog.bungeer.com,2013-10-17:markdown.html</id><summary type="html">&lt;h1&gt;This is an&amp;nbsp;H1&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Bungeer</title><link href="http://blog.bungeer.com/" rel="alternate"></link><link href="http://blog.bungeer.com/feeds/tech.atom.xml" rel="self"></link><id>http://blog.bungeer.com/</id><updated>2013-10-21T11:30:23+08:00</updated><entry><title>Markdown</title><link href="http://blog.bungeer.com/markdown.html" rel="alternate"></link><updated>2013-10-21T11:30:23+08:00</updated><author><name>king6cong</name></author><id>tag:blog.bungeer.com,2013-10-21:markdown.html</id><summary type="html">&lt;h1&gt;This is an&amp;nbsp;H1&lt;/h1&gt;
 &lt;h2&gt;This is an&amp;nbsp;H2&lt;/h2&gt;
 &lt;h6&gt;This is an&amp;nbsp;H6&lt;/h6&gt;
 &lt;ol&gt;
@@ -18,6 +18,14 @@ sit amet&amp;nbsp;velit.&lt;/p&gt;
 &lt;p&gt;4&amp;lt;5&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
+&lt;p&gt;This is a regular&amp;nbsp;paragraph.&lt;/p&gt;
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Foo&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;This is another regular&amp;nbsp;paragraph.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
 consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.

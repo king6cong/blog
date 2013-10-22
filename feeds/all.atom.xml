@@ -1,5 +1,143 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Bungeer</title><link href="http://blog.bungeer.com/" rel="alternate"></link><link href="http://blog.bungeer.com/feeds/all.atom.xml" rel="self"></link><id>http://blog.bungeer.com/</id><updated>2013-10-17T13:54:01+08:00</updated><entry><title>Why this blog is opened</title><link href="http://blog.bungeer.com/why-this-blog-is-opened.html" rel="alternate"></link><updated>2013-10-17T13:54:01+08:00</updated><author><name>king6cong</name></author><id>tag:blog.bungeer.com,2013-10-17:why-this-blog-is-opened.html</id><summary type="html">&lt;p&gt;虽然不是哲学家，但有时也会经常想想自己的人生。或许天生是个怀旧的人，回忆的味道总是甜美的，既让人心里舒畅，也很自然的让人今昔对比，慨叹自己当时的幼稚，怀念自己曾经的单纯。&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Bungeer</title><link href="http://blog.bungeer.com/" rel="alternate"></link><link href="http://blog.bungeer.com/feeds/all.atom.xml" rel="self"></link><id>http://blog.bungeer.com/</id><updated>2013-10-22T11:56:00+08:00</updated><entry><title>书单</title><link href="http://blog.bungeer.com/shu-dan.html" rel="alternate"></link><updated>2013-10-22T11:56:00+08:00</updated><author><name>king6cong</name></author><id>tag:blog.bungeer.com,2013-10-22:shu-dan.html</id><summary type="html">&lt;p&gt;&lt;a href="http://www.amazon.com/Non-Designers-Design-Book-Robin-Williams/dp/0321534042"&gt;The Non-Designer&amp;#8217;s Design Book (3rd&amp;nbsp;Edition)&lt;/a&gt;&lt;/p&gt;
+&lt;script&gt;window.jQuery || document.write('&lt;script src="http://bungeer.com/static/boilerplate/js/vendor/jquery-1.9.1.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+
+&lt;link href="http://vjs.zencdn.net/4.2/video-js.css" rel="stylesheet"&gt;
+&lt;script src="http://vjs.zencdn.net/4.2/video.js"&gt;&lt;/script&gt;
+&lt;style type="text/css"&gt;
+  .vjs-default-skin .vjs-control-bar { font-size: 75%;padding-bottom:20px; }
+
+&lt;/style&gt;
+
+
+&lt;div class="video_html5_url" href="http://v.youku.com/v_show/id_XNjEyODk1MzM2.html" poster="http://www.bungeer.com/static/img/web_hi_res_512.png"&gt;&lt;/div&gt;
+
+&lt;div class="video_html5_url" href="http://v.youku.com/v_show/id_XNjIzMTAwNjg0.html" poster="http://www.bungeer.com/static/img/12w.png"&gt;&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+&lt;script type=text/javascript  src="http://www.cajian.com/static/js/video_html5.js"&gt;&lt;/script&gt;</summary><category term="Books"></category></entry><entry><title>Markdown</title><link href="http://blog.bungeer.com/markdown.html" rel="alternate"></link><updated>2013-10-21T11:30:23+08:00</updated><author><name>king6cong</name></author><id>tag:blog.bungeer.com,2013-10-21:markdown.html</id><summary type="html">&lt;h1&gt;This is an&amp;nbsp;H1&lt;/h1&gt;
+&lt;h2&gt;This is an&amp;nbsp;H2&lt;/h2&gt;
+&lt;h6&gt;This is an&amp;nbsp;H6&lt;/h6&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;This is a list item with two paragraphs. Lorem ipsum dolor
+    sit amet, consectetuer adipiscing elit. Aliquam hendrerit
+    mi posuere&amp;nbsp;lectus.&lt;/p&gt;
+&lt;p&gt;Vestibulum enim wisi, viverra nec, fringilla in, laoreet
+vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
+sit amet&amp;nbsp;velit.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Suspendisse id sem consectetuer libero luctus&amp;nbsp;adipiscing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;4&amp;lt;5&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This is a regular&amp;nbsp;paragraph.&lt;/p&gt;
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Foo&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;This is another regular&amp;nbsp;paragraph.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
+consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
+Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae,&amp;nbsp;risus.&lt;/p&gt;
+&lt;p&gt;Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
+id sem consectetuer libero luctus&amp;nbsp;adipiscing.&lt;/p&gt;
+&lt;p&gt;This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
+consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
+Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae,&amp;nbsp;risus.&lt;/p&gt;
+&lt;p&gt;Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
+id sem consectetuer libero luctus&amp;nbsp;adipiscing.&lt;/p&gt;
+&lt;p&gt;This is the first level of&amp;nbsp;quoting.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is nested&amp;nbsp;blockquote.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Back to the first&amp;nbsp;level.&lt;/p&gt;
+&lt;h2&gt;This is a&amp;nbsp;header.&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;This is the first list&amp;nbsp;item.&lt;/li&gt;
+&lt;li&gt;This is the second list&amp;nbsp;item.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Here&amp;#8217;s some example&amp;nbsp;code:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="nf"&gt;shell_exec&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;echo $input | $markdown_script&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;/blockquote&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;  &lt;span class="mf"&gt;1.&lt;/span&gt;  &lt;span class="n"&gt;Bird&lt;/span&gt;
+  &lt;span class="mf"&gt;1.&lt;/span&gt;  &lt;span class="n"&gt;McHale&lt;/span&gt;
+  &lt;span class="mf"&gt;1.&lt;/span&gt;  &lt;span class="n"&gt;Parish&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;ol&gt;
+&lt;li&gt;Bird&lt;/li&gt;
+&lt;li&gt;McHale&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Parish&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bird&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;McHale&lt;/li&gt;
+&lt;li&gt;Parish&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr /&gt;
+&lt;ul&gt;
+&lt;li&gt;Red&lt;/li&gt;
+&lt;li&gt;Green&lt;/li&gt;
+&lt;li&gt;Blue&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;This is a normal&amp;nbsp;paragraph:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;code&lt;/span&gt; &lt;span class="n"&gt;block&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Here is an example of&amp;nbsp;AppleScript:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;tell&lt;/span&gt; &lt;span class="n"&gt;application&lt;/span&gt; &lt;span class="s"&gt;&amp;quot;Foo&amp;quot;&lt;/span&gt;
+    &lt;span class="n"&gt;beep&lt;/span&gt;
+&lt;span class="n"&gt;end&lt;/span&gt; &lt;span class="n"&gt;tell&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;This is &lt;a href="http://example.com/" title="Title"&gt;an example&lt;/a&gt; inline&amp;nbsp;link.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://example.net/"&gt;This link&lt;/a&gt; has no title&amp;nbsp;attribute.&lt;/p&gt;
+&lt;p&gt;See my &lt;a href="/about/"&gt;About&lt;/a&gt; page for&amp;nbsp;details. &lt;/p&gt;
+&lt;p&gt;See my &lt;a href="/schedule"&gt;Schedule&lt;/a&gt; page for&amp;nbsp;details. &lt;/p&gt;
+&lt;p&gt;This is &lt;a href="/images/ic_launcher_clean.png" title="Optional title attribute"&gt;an example&lt;/a&gt; reference-style&amp;nbsp;link.&lt;/p&gt;
+&lt;p&gt;I get 10 times more traffic from &lt;a href="http://google.com/" title="Google"&gt;Google&lt;/a&gt; than from
+&lt;a href="http://search.yahoo.com/" title="Yahoo Search"&gt;Yahoo&lt;/a&gt; or &lt;a href="http://search.msn.com/" title="MSN Search"&gt;&lt;span class="caps"&gt;MSN&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I get 10 times more traffic from &lt;a href="http://google.com/" title="Google"&gt;Google&lt;/a&gt; than from
+&lt;a href="http://search.yahoo.com/" title="Yahoo Search"&gt;Yahoo&lt;/a&gt; or &lt;a href="http://search.msn.com/" title="MSN Search"&gt;&lt;span class="caps"&gt;MSN&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;single&amp;nbsp;asterisks&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;double&amp;nbsp;asterisks&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;un&lt;em&gt;frigging&lt;/em&gt;believable&lt;/p&gt;
+&lt;p&gt;*this text is surrounded by literal&amp;nbsp;asterisks*&lt;/p&gt;
+&lt;p&gt;Use the &lt;code&gt;printf()&lt;/code&gt; function.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;There is a literal backtick (`) here.&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;A single backtick in a code span: &lt;code&gt;`&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;A backtick-delimited string in a code span: &lt;code&gt;`foo`&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Please don&amp;#8217;t use any &lt;code&gt;&amp;lt;blink&amp;gt;&lt;/code&gt; tags.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&amp;amp;#8212;&lt;/code&gt; is the decimal-encoded equivalent of &lt;code&gt;&amp;amp;mdash;&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Alt text" src="/images/ic_launcher_clean.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Alt text" src="/images/ic_launcher_clean.png" title="Optional title" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Alt text" src="/images/ic_launcher_clean.png" title="Optional title attribute" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://example.com/"&gt;http://example.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#116;&amp;#111;&amp;#58;&amp;#97;&amp;#100;&amp;#100;&amp;#114;&amp;#101;&amp;#115;&amp;#115;&amp;#64;&amp;#101;&amp;#120;&amp;#97;&amp;#109;&amp;#112;&amp;#108;&amp;#101;&amp;#46;&amp;#99;&amp;#111;&amp;#109;"&gt;&amp;#97;&amp;#100;&amp;#100;&amp;#114;&amp;#101;&amp;#115;&amp;#115;&amp;#64;&amp;#101;&amp;#120;&amp;#97;&amp;#109;&amp;#112;&amp;#108;&amp;#101;&amp;#46;&amp;#99;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/p&gt;</summary><category term="markdown"></category></entry><entry><title>Why this blog is opened</title><link href="http://blog.bungeer.com/why-this-blog-is-opened.html" rel="alternate"></link><updated>2013-10-18T16:06:57+08:00</updated><author><name>king6cong</name></author><id>tag:blog.bungeer.com,2013-10-18:why-this-blog-is-opened.html</id><summary type="html">&lt;h3&gt;非哲学家的人生观&lt;/h3&gt;
+&lt;p&gt;虽然不是哲学家，但有时也会经常想想自己的人生。或许天生是个怀旧的人，回忆的味道总是甜美的，既让人心里舒畅，也很自然的让人今昔对比，慨叹自己当时的幼稚，怀念自己曾经的单纯。&lt;/p&gt;
 &lt;p&gt;自己成长似乎有着很多截然不同的阶段。认真想想，其中不少片段真的是沉淀下了人生。如果一辈子是一个电影，那么这个电影的长度完全取决于这些片段。而每个片段过后，我们也不再是曾经的自己了。这是我们生命的轨迹。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;父母的温柔严厉，老师的表扬批评，伙伴的嬉戏打闹，这是童年。心里干净的像北极的雪，一个玩伴可以带来全世界的快乐；&lt;/li&gt;
@@ -17,221 +155,42 @@
 &lt;/ul&gt;
 &lt;p&gt;但我越来越觉得自己想在人群中挣扎着看看圈外的世界。我觉得，我们走偏了。&lt;/p&gt;
 &lt;p&gt;人生的本质是什么，这不应该是哲学家才需要想的问题。因为我们正在丧失人生的控制权，而且速度越来越快。&lt;/p&gt;
-&lt;p&gt;人生应该不是为了北京的一个户口一套房；人生应该也不是为了万众瞩目全民朝拜；人生应该很简单，舒服就好。这是一个平衡点。&lt;/p&gt;
-&lt;p&gt;但慢慢的，我觉得&lt;/p&gt;
-&lt;h1&gt;This is an&amp;nbsp;H1&lt;/h1&gt;
-&lt;h2&gt;This is an&amp;nbsp;H2&lt;/h2&gt;
-&lt;h6&gt;This is an&amp;nbsp;H6&lt;/h6&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;This is a list item with two paragraphs. Lorem ipsum dolor
-    sit amet, consectetuer adipiscing elit. Aliquam hendrerit
-    mi posuere&amp;nbsp;lectus.&lt;/p&gt;
-&lt;p&gt;Vestibulum enim wisi, viverra nec, fringilla in, laoreet
-vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
-sit amet&amp;nbsp;velit.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Suspendisse id sem consectetuer libero luctus&amp;nbsp;adipiscing.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;4&amp;lt;5&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;blockquote&gt;
-&lt;p&gt;This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae,&amp;nbsp;risus.&lt;/p&gt;
-&lt;p&gt;Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-id sem consectetuer libero luctus&amp;nbsp;adipiscing.&lt;/p&gt;
-&lt;p&gt;This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae,&amp;nbsp;risus.&lt;/p&gt;
-&lt;p&gt;Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-id sem consectetuer libero luctus&amp;nbsp;adipiscing.&lt;/p&gt;
-&lt;p&gt;This is the first level of&amp;nbsp;quoting.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;This is nested&amp;nbsp;blockquote.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Back to the first&amp;nbsp;level.&lt;/p&gt;
-&lt;h2&gt;This is a&amp;nbsp;header.&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;This is the first list&amp;nbsp;item.&lt;/li&gt;
-&lt;li&gt;This is the second list&amp;nbsp;item.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Here&amp;#8217;s some example&amp;nbsp;code:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="nf"&gt;shell_exec&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;echo $input | $markdown_script&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;/blockquote&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;  &lt;span class="mf"&gt;1.&lt;/span&gt;  &lt;span class="n"&gt;Bird&lt;/span&gt;
-  &lt;span class="mf"&gt;1.&lt;/span&gt;  &lt;span class="n"&gt;McHale&lt;/span&gt;
-  &lt;span class="mf"&gt;1.&lt;/span&gt;  &lt;span class="n"&gt;Parish&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;ol&gt;
-&lt;li&gt;Bird&lt;/li&gt;
-&lt;li&gt;McHale&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Parish&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Bird&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;McHale&lt;/li&gt;
-&lt;li&gt;Parish&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr /&gt;
+&lt;h3&gt;怎样的人生才算成功？&lt;/h3&gt;
+&lt;p&gt;人生本来就是一个过程，从出生开始，以死亡结束，本是一个水到渠成的旅行，却被人们强加上林林总总的目的，设立形形色色的标准。各种成功人士成功学的光辉笼罩下，普通人的失败人生暴漏无疑。这种标准下，成功者总是少数，莫非我们大多数人生下来仅仅是为了做一个微不足道的失败者？&lt;/p&gt;
+&lt;p&gt;人生不应该是为了北京的一个户口一套房；也不应该是为了万众瞩目全民朝拜；人生应该很简单，过程舒适，心里安宁，按着自己的节奏朝着自己喜欢的方向走，这样就好。起码，自己的人生自己走过。我们需要找的是一个活下去和活得好这样一个平衡点。&lt;/p&gt;
+&lt;p&gt;幸福很简单，小时候特别喜欢看书，晚上躺在床上，听着窗外淅沥沥的雨声，在柔柔的灯光下，捧起一本厚厚的书，感觉这是世界上最惬意的事情了。心里想着，长大后，每晚也能这样看书就好了。我心想，那一刻我心里的幸福指数跟很多成功人士比起来，应该高了不少。&lt;/p&gt;
+&lt;p&gt;有时思考是什么让我们忙忙碌碌，让我们烦躁不安，走在路上，看着来往匆匆的人群，看着一张张毫无生气的脸，看着川流不息的车辆。看着四处奔波的一切，我总想弄清楚大家想到哪，是什么动力推使如今这个社会机器运转起来。&lt;/p&gt;
+&lt;h3&gt;如何确认自己已经精通了一种技能&lt;/h3&gt;
+&lt;p&gt;人脑是一个拥有各级缓存的存储器，最容易读取的是最近使用的记忆。无论怎样博览群书，阅历无限，信手拈来的永远是最近得来的信息。多年的大脑使用经验告诉我，&lt;strong&gt;尘封的记忆&lt;/strong&gt;这个描述简直太贴切了：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Red&lt;/li&gt;
-&lt;li&gt;Green&lt;/li&gt;
-&lt;li&gt;Blue&lt;/li&gt;
+&lt;li&gt;曾经苦心孤诣研究网络安全和hacker&amp;nbsp;tools一段时间，而后集中精力做了其他事情。回头一看，脑中可以直接揪出来的只剩下nmap这些常用的东西了。&lt;/li&gt;
+&lt;li&gt;也心血来潮的抓起 &lt;a href="http://www.amazon.com/Mathematics-Elementary-Approach-Ideas-Methods/dp/0195105192" title="What Is Mathematics? An Elementary Approach to Ideas and Methods"&gt;What Is Mathematics? An Elementary Approach to Ideas and Methods&lt;/a&gt;&amp;nbsp;,在一次次的醍醐灌顶，茅塞顿开之后，遗忘也成了必然的结局。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr /&gt;
-&lt;p&gt;This is a normal&amp;nbsp;paragraph:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;code&lt;/span&gt; &lt;span class="n"&gt;block&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;p&gt;Here is an example of&amp;nbsp;AppleScript:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;tell&lt;/span&gt; &lt;span class="n"&gt;application&lt;/span&gt; &lt;span class="s"&gt;&amp;quot;Foo&amp;quot;&lt;/span&gt;
-    &lt;span class="n"&gt;beep&lt;/span&gt;
-&lt;span class="n"&gt;end&lt;/span&gt; &lt;span class="n"&gt;tell&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;p&gt;This is &lt;a href="http://example.com/" title="Title"&gt;an example&lt;/a&gt; inline&amp;nbsp;link.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://example.net/"&gt;This link&lt;/a&gt; has no title&amp;nbsp;attribute.&lt;/p&gt;
-&lt;p&gt;See my &lt;a href="/about/"&gt;About&lt;/a&gt; page for&amp;nbsp;details. &lt;/p&gt;
-&lt;p&gt;See my &lt;a href="/schedule"&gt;Schedule&lt;/a&gt; page for&amp;nbsp;details. &lt;/p&gt;
-&lt;p&gt;This is &lt;a href="/images/ic_launcher_clean.png" title="Optional title attribute"&gt;an example&lt;/a&gt; reference-style&amp;nbsp;link.&lt;/p&gt;
-&lt;p&gt;I get 10 times more traffic from &lt;a href="http://google.com/" title="Google"&gt;Google&lt;/a&gt; than from
-&lt;a href="http://search.yahoo.com/" title="Yahoo Search"&gt;Yahoo&lt;/a&gt; or &lt;a href="http://search.msn.com/" title="MSN Search"&gt;&lt;span class="caps"&gt;MSN&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;I get 10 times more traffic from &lt;a href="http://google.com/" title="Google"&gt;Google&lt;/a&gt; than from
-&lt;a href="http://search.yahoo.com/" title="Yahoo Search"&gt;Yahoo&lt;/a&gt; or &lt;a href="http://search.msn.com/" title="MSN Search"&gt;&lt;span class="caps"&gt;MSN&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;single&amp;nbsp;asterisks&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;double&amp;nbsp;asterisks&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;un&lt;em&gt;frigging&lt;/em&gt;believable&lt;/p&gt;
-&lt;p&gt;*this text is surrounded by literal&amp;nbsp;asterisks*&lt;/p&gt;
-&lt;p&gt;Use the &lt;code&gt;printf()&lt;/code&gt; function.&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;There is a literal backtick (`) here.&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;A single backtick in a code span: &lt;code&gt;`&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;A backtick-delimited string in a code span: &lt;code&gt;`foo`&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Please don&amp;#8217;t use any &lt;code&gt;&amp;lt;blink&amp;gt;&lt;/code&gt; tags.&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;&amp;amp;#8212;&lt;/code&gt; is the decimal-encoded equivalent of &lt;code&gt;&amp;amp;mdash;&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Alt text" src="/images/ic_launcher_clean.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Alt text" src="/images/ic_launcher_clean.png" title="Optional title" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Alt text" src="/images/ic_launcher_clean.png" title="Optional title attribute" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://example.com/"&gt;http://example.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#116;&amp;#111;&amp;#58;&amp;#97;&amp;#100;&amp;#100;&amp;#114;&amp;#101;&amp;#115;&amp;#115;&amp;#64;&amp;#101;&amp;#120;&amp;#97;&amp;#109;&amp;#112;&amp;#108;&amp;#101;&amp;#46;&amp;#99;&amp;#111;&amp;#109;"&gt;&amp;#97;&amp;#100;&amp;#100;&amp;#114;&amp;#101;&amp;#115;&amp;#115;&amp;#64;&amp;#101;&amp;#120;&amp;#97;&amp;#109;&amp;#112;&amp;#108;&amp;#101;&amp;#46;&amp;#99;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/p&gt;</summary><category term="blog"></category></entry><entry><title>Markdown</title><link href="http://blog.bungeer.com/markdown.html" rel="alternate"></link><updated>2013-10-17T01:10:10+08:00</updated><author><name>king6cong</name></author><id>tag:blog.bungeer.com,2013-10-17:markdown.html</id><summary type="html">&lt;h1&gt;This is an&amp;nbsp;H1&lt;/h1&gt;
-&lt;h2&gt;This is an&amp;nbsp;H2&lt;/h2&gt;
-&lt;h6&gt;This is an&amp;nbsp;H6&lt;/h6&gt;
+&lt;p&gt;结论就是：&lt;strong&gt;技能可以无限获取，但关键时刻能够立即施展出来的永远是经常使用的&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;但人脑很神奇，即使会遗忘，即使会一时提取不出来想要的信息，脑中认真走过的内容或多或少都会留下丝丝缕缕的痕迹。当我们再次经历这些内容的时候，总会轻车熟路，用很少时间就能恢复元气。而那些丝丝缕缕的痕迹，成了我们最宝贵的财富。如果所有关键的信息都被这些痕迹囊括，我们才可以说真正通晓了一样的东西:stuff at hand and stuff that can be used immediately.&amp;nbsp;这些内容是我们真正掌握不许思考就可以使用的信息基础，从它们身上我们可以通过思考衍生出很多内容，也就是所谓的创造了。所以知识获取的本质就是获取这些关键点的痕迹。&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;This is a list item with two paragraphs. Lorem ipsum dolor
-    sit amet, consectetuer adipiscing elit. Aliquam hendrerit
-    mi posuere&amp;nbsp;lectus.&lt;/p&gt;
-&lt;p&gt;Vestibulum enim wisi, viverra nec, fringilla in, laoreet
-vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
-sit amet&amp;nbsp;velit.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Suspendisse id sem consectetuer libero luctus&amp;nbsp;adipiscing.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;4&amp;lt;5&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;这些关键点痕迹是“实”，可以支撑起我们的整个知识体系，按图索骥，信手拈来&lt;/li&gt;
+&lt;li&gt;其他的内容是”形“，可以想想我们从第一句背诵一篇还未读过的文章，即使短时间能够记住了每句话的细节，几小时或者更短，这些内容似乎就销声匿迹，无从寻起了。&lt;/li&gt;
 &lt;/ol&gt;
+&lt;h3&gt;获取应有的轨迹&lt;/h3&gt;
 &lt;blockquote&gt;
-&lt;p&gt;This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae,&amp;nbsp;risus.&lt;/p&gt;
-&lt;p&gt;Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-id sem consectetuer libero luctus&amp;nbsp;adipiscing.&lt;/p&gt;
-&lt;p&gt;This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae,&amp;nbsp;risus.&lt;/p&gt;
-&lt;p&gt;Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-id sem consectetuer libero luctus&amp;nbsp;adipiscing.&lt;/p&gt;
-&lt;p&gt;This is the first level of&amp;nbsp;quoting.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;This is nested&amp;nbsp;blockquote.&lt;/p&gt;
+&lt;p&gt;温故而知新&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Back to the first&amp;nbsp;level.&lt;/p&gt;
-&lt;h2&gt;This is a&amp;nbsp;header.&lt;/h2&gt;
+&lt;p&gt;说的大概就是这个事情。很多事情思考过多次，体会越来越深，脑中的痕迹越来越多，一旦达到了通晓这个临界点，这个东西就是自己的永久财产了。&lt;/p&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;p&gt;深处信息时代，获取信息从来没有像现在这样容易，我们的知识领域被极大的扩大了。&lt;/p&gt;
+&lt;p&gt;雁过留痕，既然没法保持一直飞翔，那么至少留点东西证明自己飞过。&lt;/p&gt;
+&lt;h3&gt;关于Bungeer项目(The Bungeer&amp;nbsp;project)&lt;/h3&gt;
+&lt;p&gt;Bungee，蹦极，Bungeer蹦极者，我想通过这个项目产生一些我们真正需要的东西，让它产生一些价值。&lt;/p&gt;
+&lt;p&gt;现在想来，主要有几点：
+1. 产生一些有使用价值的产品
+2.&amp;nbsp;输出一些有帮助的信息&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;This is the first list&amp;nbsp;item.&lt;/li&gt;
-&lt;li&gt;This is the second list&amp;nbsp;item.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Here&amp;#8217;s some example&amp;nbsp;code:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="nf"&gt;shell_exec&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;echo $input | $markdown_script&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;/blockquote&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;  &lt;span class="mf"&gt;1.&lt;/span&gt;  &lt;span class="n"&gt;Bird&lt;/span&gt;
-  &lt;span class="mf"&gt;1.&lt;/span&gt;  &lt;span class="n"&gt;McHale&lt;/span&gt;
-  &lt;span class="mf"&gt;1.&lt;/span&gt;  &lt;span class="n"&gt;Parish&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;ol&gt;
-&lt;li&gt;Bird&lt;/li&gt;
-&lt;li&gt;McHale&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Parish&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Bird&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;McHale&lt;/li&gt;
-&lt;li&gt;Parish&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr /&gt;
-&lt;ul&gt;
-&lt;li&gt;Red&lt;/li&gt;
-&lt;li&gt;Green&lt;/li&gt;
-&lt;li&gt;Blue&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr /&gt;
-&lt;p&gt;This is a normal&amp;nbsp;paragraph:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;code&lt;/span&gt; &lt;span class="n"&gt;block&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;p&gt;Here is an example of&amp;nbsp;AppleScript:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;tell&lt;/span&gt; &lt;span class="n"&gt;application&lt;/span&gt; &lt;span class="s"&gt;&amp;quot;Foo&amp;quot;&lt;/span&gt;
-    &lt;span class="n"&gt;beep&lt;/span&gt;
-&lt;span class="n"&gt;end&lt;/span&gt; &lt;span class="n"&gt;tell&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;p&gt;This is &lt;a href="http://example.com/" title="Title"&gt;an example&lt;/a&gt; inline&amp;nbsp;link.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://example.net/"&gt;This link&lt;/a&gt; has no title&amp;nbsp;attribute.&lt;/p&gt;
-&lt;p&gt;See my &lt;a href="/about/"&gt;About&lt;/a&gt; page for&amp;nbsp;details. &lt;/p&gt;
-&lt;p&gt;See my &lt;a href="/schedule"&gt;Schedule&lt;/a&gt; page for&amp;nbsp;details. &lt;/p&gt;
-&lt;p&gt;This is &lt;a href="/images/ic_launcher_clean.png" title="Optional title attribute"&gt;an example&lt;/a&gt; reference-style&amp;nbsp;link.&lt;/p&gt;
-&lt;p&gt;I get 10 times more traffic from &lt;a href="http://google.com/" title="Google"&gt;Google&lt;/a&gt; than from
-&lt;a href="http://search.yahoo.com/" title="Yahoo Search"&gt;Yahoo&lt;/a&gt; or &lt;a href="http://search.msn.com/" title="MSN Search"&gt;&lt;span class="caps"&gt;MSN&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;I get 10 times more traffic from &lt;a href="http://google.com/" title="Google"&gt;Google&lt;/a&gt; than from
-&lt;a href="http://search.yahoo.com/" title="Yahoo Search"&gt;Yahoo&lt;/a&gt; or &lt;a href="http://search.msn.com/" title="MSN Search"&gt;&lt;span class="caps"&gt;MSN&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;single&amp;nbsp;asterisks&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;double&amp;nbsp;asterisks&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;un&lt;em&gt;frigging&lt;/em&gt;believable&lt;/p&gt;
-&lt;p&gt;*this text is surrounded by literal&amp;nbsp;asterisks*&lt;/p&gt;
-&lt;p&gt;Use the &lt;code&gt;printf()&lt;/code&gt; function.&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;There is a literal backtick (`) here.&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;A single backtick in a code span: &lt;code&gt;`&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;A backtick-delimited string in a code span: &lt;code&gt;`foo`&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Please don&amp;#8217;t use any &lt;code&gt;&amp;lt;blink&amp;gt;&lt;/code&gt; tags.&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;&amp;amp;#8212;&lt;/code&gt; is the decimal-encoded equivalent of &lt;code&gt;&amp;amp;mdash;&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Alt text" src="/images/ic_launcher_clean.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Alt text" src="/images/ic_launcher_clean.png" title="Optional title" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Alt text" src="/images/ic_launcher_clean.png" title="Optional title attribute" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://example.com/"&gt;http://example.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#116;&amp;#111;&amp;#58;&amp;#97;&amp;#100;&amp;#100;&amp;#114;&amp;#101;&amp;#115;&amp;#115;&amp;#64;&amp;#101;&amp;#120;&amp;#97;&amp;#109;&amp;#112;&amp;#108;&amp;#101;&amp;#46;&amp;#99;&amp;#111;&amp;#109;"&gt;&amp;#97;&amp;#100;&amp;#100;&amp;#114;&amp;#101;&amp;#115;&amp;#115;&amp;#64;&amp;#101;&amp;#120;&amp;#97;&amp;#109;&amp;#112;&amp;#108;&amp;#101;&amp;#46;&amp;#99;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/p&gt;</summary><category term="markdown"></category></entry><entry><title>Schedule</title><link href="http://blog.bungeer.com/schedule.html" rel="alternate"></link><updated>2010-12-03T10:20:00+08:00</updated><author><name>king6cong</name></author><id>tag:blog.bungeer.com,2010-12-03:schedule.html</id><summary type="html">&lt;h1&gt;project &lt;em&gt;bungee&lt;/em&gt;&lt;/h1&gt;
+&lt;li&gt;企业解决方案&lt;/li&gt;
+&lt;li&gt;安全相关&lt;/li&gt;
+&lt;li&gt;消费级app&lt;/li&gt;
+&lt;li&gt;游戏&lt;/li&gt;
+&lt;/ol&gt;</summary><category term="blog"></category></entry><entry><title>Schedule</title><link href="http://blog.bungeer.com/schedule.html" rel="alternate"></link><updated>2010-12-03T10:20:00+08:00</updated><author><name>king6cong</name></author><id>tag:blog.bungeer.com,2010-12-03:schedule.html</id><summary type="html">&lt;h1&gt;project &lt;em&gt;bungee&lt;/em&gt;&lt;/h1&gt;
 &lt;h1&gt;Bungeer项目的诞生&lt;/h1&gt;
 &lt;h2&gt;server&lt;/h2&gt;
 &lt;p&gt;a. server

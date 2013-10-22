@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Bungeer</title><link href="http://blog.bungeer.com/" rel="alternate"></link><link href="http://blog.bungeer.com/feeds/books.atom.xml" rel="self"></link><id>http://blog.bungeer.com/</id><updated>2013-10-22T11:56:00+08:00</updated><entry><title>书单</title><link href="http://blog.bungeer.com/shu-dan.html" rel="alternate"></link><updated>2013-10-22T11:56:00+08:00</updated><author><name>king6cong</name></author><id>tag:blog.bungeer.com,2013-10-22:shu-dan.html</id><summary type="html">&lt;p&gt;&lt;a href="http://www.amazon.com/Non-Designers-Design-Book-Robin-Williams/dp/0321534042"&gt;The Non-Designer&amp;#8217;s Design Book (3rd&amp;nbsp;Edition)&lt;/a&gt;&lt;/p&gt;
+&lt;script&gt;window.jQuery || document.write('&lt;script src="http://bungeer.com/static/boilerplate/js/vendor/jquery-1.9.1.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+
+&lt;link href="http://vjs.zencdn.net/4.2/video-js.css" rel="stylesheet"&gt;
+&lt;script src="http://vjs.zencdn.net/4.2/video.js"&gt;&lt;/script&gt;
+&lt;style type="text/css"&gt;
+  .vjs-default-skin .vjs-control-bar { font-size: 75%;padding-bottom:20px; }
+
+&lt;/style&gt;
+
+
+&lt;div class="video_html5_url" href="http://v.youku.com/v_show/id_XNjEyODk1MzM2.html" poster="http://www.bungeer.com/static/img/web_hi_res_512.png"&gt;&lt;/div&gt;
+
+&lt;div class="video_html5_url" href="http://v.youku.com/v_show/id_XNjIzMTAwNjg0.html" poster="http://www.bungeer.com/static/img/12w.png"&gt;&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+&lt;script type=text/javascript  src="http://www.cajian.com/static/js/video_html5.js"&gt;&lt;/script&gt;</summary><category term="Books"></category></entry></feed>
