@@ -5,7 +5,6 @@ from __future__ import unicode_literals
 AUTHOR = u'king6cong'
 SITENAME = u'Bungeer'
 SITEURL = 'http://127.0.0.1:8000'
-SITEURL = 'http://king6cong.github.io/blog'
 
 TIMEZONE = 'Asia/Shanghai'
 
@@ -120,7 +119,8 @@ FEED_MAX_ITEMS = 60
 #THEME = "/Users/cong/code/pelican-themes/subtle"
 #THEME = "/Users/cong/code/pelican-themes/waterspill-en"
 #THEME = "/Users/cong/code/pelican-themes/pelican-bootstrap3"
-THEME = "/Users/cong/code/pelican-themes/gum"
+#THEME = "/Users/cong/code/pelican-themes/gum"
+THEME = "gum"
 
 #THEME_STATIC_PATHS=['/Users/cong/code/pelican-themes/lannisport/static']
 
@@ -140,6 +140,8 @@ GOOGLE_ANALYTICS='UA-44864814-1'
 
 GITHUB_URL='https://github.com/king6cong'
 TWITTER_USERNAME='king6cong'
+
+STATIC_PATHS = ['images', 'CNAME']
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

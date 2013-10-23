@@ -1,7 +1,7 @@
 Title: Schedule
 Date: 2010-12-03 10:20
-Category: Python
-Tags: tech, plan
+Category: Tech
+Tags: Python
 
 #project *bungee*
 

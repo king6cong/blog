@@ -2,155 +2,91 @@ Title: Why this blog is opened
 Category: Thinking
 Tags: blog
 
-# This is an H1
+###非哲学家的人生观
 
-## This is an H2
+虽然不是哲学家，但有时也会经常想想自己的人生。或许天生是个怀旧的人，回忆的味道总是甜美的，既让人心里舒畅，也很自然的让人今昔对比，慨叹自己当时的幼稚，怀念自己曾经的单纯。
 
-###### This is an H6
+自己成长似乎有着很多截然不同的阶段。认真想想，其中不少片段真的是沉淀下了人生。如果一辈子是一个电影，那么这个电影的长度完全取决于这些片段。而每个片段过后，我们也不再是曾经的自己了。这是我们生命的轨迹。
 
-1.  This is a list item with two paragraphs. Lorem ipsum dolor
-    sit amet, consectetuer adipiscing elit. Aliquam hendrerit
-    mi posuere lectus.
+* 父母的温柔严厉，老师的表扬批评，伙伴的嬉戏打闹，这是童年。心里干净的像北极的雪，一个玩伴可以带来全世界的快乐；
+* 课业的逐步繁重，情窦的含苞待放；未来的美好憧憬，这是中学。眼界单纯的好像肥皂泡，一支笔杆想要撼动整个宇宙；
+* 都市的灯红酒绿，做事的天马行空，父母的喋喋不休，这是大学；似乎是刚准备飞的独鸟，刚拍翅膀就想一鸣惊人；
+* 面试的忙忙碌碌，拿到offer的欣喜若狂，刚得到工作的兢兢业业，这是刚开始工作。好像刚刚睁眼的婴儿，第一次这么清楚的看到这个世界。
 
-    Vestibulum enim wisi, viverra nec, fringilla in, laoreet
-    vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
-    sit amet velit.
+然后呢？猛然一回首，不知不觉，已经工作了几年。但能够加进人生电影里的片段却没有增多。
 
-2.  Suspendisse id sem consectetuer libero luctus adipiscing.
+父母的庇护下日子总是过于舒适，躲在父母身后的我们自然有着人生最宝贵的片段。从离家的日子--大学看起。大学的日子溜走地无声无息，但最后心里还是留下了些许印记。开始工作的日子，满腔热情，想释放自己所有的才华，奉献所有的精力。这些都很美。但漫长的工作却磨灭了很多最初的激情。越来越觉得像是在雾里小跑，匆匆忙忙，望不到终点，也看不清身边，唯一留在身上的，是湿漉漉的现实。
 
+一步步，不知对错，但也按部就班，有条不紊。每个阶段无疑都是成长了什么，也似乎丢掉了些什么。
 
-3.  4<5
+一条路，一个人走，每一步都有他自己的理由；一条路，一群人走，人群里的我们，抑或是被推搡着，身不由己；或者是紧跟着，亦步亦趋。群体的力量显而易见，跟着他，我们能生存；而过度同化的危害也不容小觑，每个人循规蹈矩，不敢多迈出一步，怎样走不过都是兜着圈，像粉笔圈起来的蚂蚁，虽然一刻不停，结局却是显而易见。
 
+* 我不是一个天生标新立异的人，小时候像个傻瓜和大家一起乐呵，学生时候像个傻瓜一样和大家一起啃书。但也乐在其中;
+* 我也不是一个主意很正的人。虽然从高中开始，发现真正的学习是自学，大学即使不上课，我也安安稳稳地呆到了毕业。
 
+但我越来越觉得自己想在人群中挣扎着看看圈外的世界。我觉得，我们走偏了。
 
+人生的本质是什么，这不应该是哲学家才需要想的问题。因为我们正在丧失人生的控制权，而且速度越来越快。
 
+###怎样的人生才算成功？
 
-> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-> consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-> Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
-> 
-> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-> id sem consectetuer libero luctus adipiscing.
+人生本来就是一个过程，从出生开始，以死亡结束，本是一个水到渠成的旅行，却被人们强加上林林总总的目的，设立形形色色的标准。各种成功人士成功学的光辉笼罩下，普通人的失败人生暴漏无疑。这种标准下，成功者总是少数，莫非我们大多数人生下来仅仅是为了做一个微不足道的失败者？
 
+人生不应该是为了北京的一个户口一套房；也不应该是为了万众瞩目全民朝拜；人生应该很简单，过程舒适，心里安宁，按着自己的节奏朝着自己喜欢的方向走，这样就好。起码，自己的人生自己走过。我们需要找的是一个活下去和活得好这样一个平衡点。
 
+幸福很简单，小时候特别喜欢看书，晚上躺在床上，听着窗外淅沥沥的雨声，在柔柔的灯光下，捧起一本厚厚的书，感觉这是世界上最惬意的事情了。心里想着，长大后，每晚也能这样看书就好了。我心想，那一刻我心里的幸福指数跟很多成功人士比起来，应该高了不少。
 
-> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+有时思考是什么让我们忙忙碌碌，让我们烦躁不安，走在路上，看着来往匆匆的人群，看着一张张毫无生气的脸，看着川流不息的车辆。看着四处奔波的一切，我总想弄清楚大家想到哪，是什么动力推使如今这个社会机器运转起来。
 
-> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-id sem consectetuer libero luctus adipiscing.
 
-> This is the first level of quoting.
->
-> > This is nested blockquote.
->
-> Back to the first level.
 
+###如何确认自己已经精通了一种技能
 
-> ## This is a header.
-> 
-> 1.   This is the first list item.
-> 2.   This is the second list item.
-> 
-> Here's some example code:
-> 
->     return shell_exec("echo $input | $markdown_script");
+人脑是一个拥有各级缓存的存储器，最容易读取的是最近使用的记忆。无论怎样博览群书，阅历无限，信手拈来的永远是最近得来的信息。多年的大脑使用经验告诉我，**尘封的记忆**这个描述简直太贴切了：
 
+* 曾经苦心孤诣研究网络安全和hacker tools一段时间，而后集中精力做了其他事情。回头一看，脑中可以直接揪出来的只剩下nmap这些常用的东西了。
+* 也心血来潮的抓起 [What Is Mathematics? An Elementary Approach to Ideas and Methods][1] ,在一次次的醍醐灌顶，茅塞顿开之后，遗忘也成了必然的结局。
+[1]: http://www.amazon.com/Mathematics-Elementary-Approach-Ideas-Methods/dp/0195105192 'What Is Mathematics? An Elementary Approach to Ideas and Methods'
 
-      1.  Bird
-      1.  McHale
-      1.  Parish
+结论就是：**技能可以无限获取，但关键时刻能够立即施展出来的永远是经常使用的**
 
+但人脑很神奇，即使会遗忘，即使会一时提取不出来想要的信息，脑中认真走过的内容或多或少都会留下丝丝缕缕的痕迹。当我们再次经历这些内容的时候，总会轻车熟路，用很少时间就能恢复元气。而那些丝丝缕缕的痕迹，成了我们最宝贵的财富。如果所有关键的信息都被这些痕迹囊括，我们才可以说真正通晓了一样的东西:stuff at hand and stuff that can be used immediately. 这些内容是我们真正掌握不许思考就可以使用的信息基础，从它们身上我们可以通过思考衍生出很多内容，也就是所谓的创造了。所以知识获取的本质就是获取这些关键点的痕迹。
 
+1. 这些关键点痕迹是“实”，可以支撑起我们的整个知识体系，按图索骥，信手拈来
+2. 其他的内容是”形“，可以想想我们从第一句背诵一篇还未读过的文章，即使短时间能够记住了每句话的细节，几小时或者更短，这些内容似乎就销声匿迹，无从寻起了。
 
-1.  Bird
-2.  McHale
-3.  Parish
+###获取应有的轨迹
+> 温故而知新
 
+说的大概就是这个事情。很多事情思考过多次，体会越来越深，脑中的痕迹越来越多，一旦达到了通晓这个临界点，这个东西就是自己的永久财产了。
 
-3. Bird
-1. McHale
-8. Parish
+###
 
-***
+深处信息时代，获取信息从来没有像现在这样容易，我们的知识领域被极大的扩大了。
 
-*   Red
-*   Green
-*   Blue
 
-***
 
-This is a normal paragraph:
+雁过留痕，既然没法保持一直飞翔，那么至少留点东西证明自己飞过。
 
-    This is a code block.
 
+###关于Bungeer项目(The Bungeer project)
+Bungee，蹦极，Bungeer蹦极者，我想通过这个项目产生一些我们真正需要的东西，让它产生一些价值。
 
-Here is an example of AppleScript:
+现在想来，主要有几点：
+1. 产生一些有使用价值的产品
+2. 输出一些有帮助的信息
 
-    tell application "Foo"
-        beep
-    end tell
 
-This is [an example](http://example.com/ "Title") inline link.
+1. 企业解决方案
+2. 安全相关
+3. 消费级app
+4. 游戏
 
-[This link](http://example.net/) has no title attribute.
 
-See my [About](/about/) page for details. 
 
-See my [Schedule](/schedule) page for details. 
 
-This is [an example][id] reference-style link.
 
 
-[id]: http://example.com/  "Optional Title Here"
 
 
-I get 10 times more traffic from [Google] [1] than from
-[Yahoo] [2] or [MSN] [3].
-
-  [1]: http://google.com/        "Google"
-  [2]: http://search.yahoo.com/  "Yahoo Search"
-  [3]: http://search.msn.com/    "MSN Search"
-
-
-I get 10 times more traffic from [Google][] than from
-[Yahoo][] or [MSN][].
-
-  [google]: http://google.com/        "Google"
-  [yahoo]:  http://search.yahoo.com/  "Yahoo Search"
-  [msn]:    http://search.msn.com/    "MSN Search"
-
-
-*single asterisks*
-
-**double asterisks**
-
-un*frigging*believable
-
-\*this text is surrounded by literal asterisks\*
-
-Use the `printf()` function.
-
-``There is a literal backtick (`) here.``
-
-A single backtick in a code span: `` ` ``
-
-A backtick-delimited string in a code span: `` `foo` ``
-
-Please don't use any `<blink>` tags.
-
-`&#8212;` is the decimal-encoded equivalent of `&mdash;`.
-
-![Alt text](/images/ic_launcher_clean.png)
-
-![Alt text](/images/ic_launcher_clean.png "Optional title")
-
-![Alt text][id]
-
-[id]: /images/ic_launcher_clean.png  "Optional title attribute"
-
-<http://example.com/>
-
-<address@example.com>
 
