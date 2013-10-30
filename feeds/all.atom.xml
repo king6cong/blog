@@ -1,159 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Bungeer</title><link href="http://blog.bungeer.com/" rel="alternate"></link><link href="http://blog.bungeer.com/feeds/all.atom.xml" rel="self"></link><id>http://blog.bungeer.com/</id><updated>2013-10-23T10:20:00+08:00</updated><entry><title>嵌入优酷html5视频</title><link href="http://blog.bungeer.com/my-super-post.html" rel="alternate"></link><updated>2013-10-23T10:20:00+08:00</updated><author><name>king6cong</name></author><id>tag:blog.bungeer.com,2013-10-23:my-super-post.html</id><summary type="html">&lt;p&gt;视频是一种非常有效的表达方式：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;在博客上用视频表达一些观点&lt;/li&gt;
-&lt;li&gt;在产品页提供demo视频，让用户更快了解产品，比如 &lt;a href="http://bungeer.com/app/android"&gt;Bungeer视频app&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;虽然可以将视频放在自己的server上，但对于非专攻视频的站点:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;访问速度难以保证&lt;/li&gt;
-&lt;li&gt;流量可能也是问题&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;优酷的在这些方面做的很好，将视频放到优酷是不错的解决方案。&lt;/p&gt;
-&lt;p&gt;但是优酷提供的嵌入方式有些不理想的地方：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;桌面浏览器默认使用flash播放，在Mac，Linux等平台上体验不好。&lt;/li&gt;
-&lt;li&gt;短视频的广告较长。视频网站运营费用很高，有广告是非常能让人理解的。但对于短视频，个人认为，可以考虑缩短广告时间。如果广告比视频还长，的确比较尴尬。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;在实际使用中，如果官网高端大气上档次，demo视频却以广告开场，也挺雷人的。&lt;/p&gt;
-&lt;p&gt;在开发Bungeer视频的过程中，提取了这样一个工具，能将优酷视频以html5方式嵌入自己的页面中，播放器使用的是 &lt;a href="http://www.videojs.com"&gt;video.js&lt;/a&gt;&lt;/p&gt;
-&lt;h4&gt;how to&amp;nbsp;use：&lt;/h4&gt;
-&lt;p&gt;1.优酷视频url，以及封面（可选），可以嵌入多个视频&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;&amp;lt;div&lt;/span&gt; &lt;span class="na"&gt;class=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;bungeer_video_html5&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://v.youku.com/v_show/id_XNjEyODk1MzM2.html&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;poster=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://www.bungeer.com/static/img/web_hi_res_512.png&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;p&gt;2.最后引入jQuery以及video_html5.js&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;&amp;lt;script&amp;gt;&lt;/span&gt;window.jQuery || document.write(&amp;#39;&lt;span class="nt"&gt;&amp;lt;script&lt;/span&gt; &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://codeorigin.jquery.com/jquery-1.10.2.min.js&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;&lt;span class="err"&gt;&amp;lt;&lt;/span&gt;\/script&amp;gt;&amp;#39;)&lt;span class="nt"&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
-&lt;span class="nt"&gt;&amp;lt;script&lt;/span&gt; &lt;span class="na"&gt;type=&lt;/span&gt;&lt;span class="s"&gt;text/javascript&lt;/span&gt;  &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://www.bungeer.com/static/js/video_html5.js&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;</summary><category term="javascript"></category></entry><entry><title>书单</title><link href="http://blog.bungeer.com/shu-dan.html" rel="alternate"></link><updated>2013-10-22T23:27:26+08:00</updated><author><name>king6cong</name></author><id>tag:blog.bungeer.com,2013-10-22:shu-dan.html</id><summary type="html">&lt;p&gt;&lt;a href="http://www.amazon.com/Non-Designers-Design-Book-Robin-Williams/dp/0321534042"&gt;The Non-Designer&amp;#8217;s Design Book (3rd&amp;nbsp;Edition)&lt;/a&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Bungeer</title><link href="http://blog.bungeer.com/" rel="alternate"></link><link href="http://blog.bungeer.com/feeds/all.atom.xml" rel="self"></link><id>http://blog.bungeer.com/</id><updated>2013-10-30T18:17:13+08:00</updated><entry><title>书单</title><link href="http://blog.bungeer.com/book-list.html" rel="alternate"></link><updated>2013-10-30T18:17:13+08:00</updated><author><name>king6cong</name></author><id>tag:blog.bungeer.com,2013-10-30:book-list.html</id><summary type="html">&lt;p&gt;&lt;a href="http://www.amazon.com/Non-Designers-Design-Book-Robin-Williams/dp/0321534042"&gt;The Non-Designer&amp;#8217;s Design Book (3rd&amp;nbsp;Edition)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Bungeer视频聚合演示视频&lt;/p&gt;
-&lt;div class="bungeer_video_html5" href="http://v.youku.com/v_show/id_XNjEyODk1MzM2.html" poster="http://www.bungeer.com/static/img/web_hi_res_512.png"&gt;&lt;/div&gt;
-
 &lt;p&gt;关于梦想
 &lt;div class="bungeer_video_html5" href="http://v.youku.com/v_show/id_XNjE0MjYzMjMy.html" poster="http://www.bungeer.com/static/img/34w.png"&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;div class="bungeer_video_html5" href="http://v.youku.com/v_show/id_XNjE0MjYzMjMy.html" poster="http://www.bungeer.com/static/img/34w.png"&gt;&lt;/div&gt;
+
 &lt;p&gt;entertainment
 &lt;div class="bungeer_video_html5" href="http://v.youku.com/v_show/id_XNjIzMTAwNjg0.html" poster="http://www.bungeer.com/static/img/12w.png"&gt;&lt;/div&gt;&lt;/p&gt;
 &lt;div class="bungeer_video_html5" href="http://v.qq.com/cover/z/zq27gqz51brx2rz.html" poster=""&gt;&lt;/div&gt;
 
+&lt;p&gt;http://v.youku.com/v_show/id_XNjI3OTA0MzQ4.html&lt;/p&gt;
 &lt;script&gt;window.jQuery || document.write('&lt;script src="http://bungeer.com/static/boilerplate/js/vendor/jquery-1.9.1.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
 
-&lt;script type=text/javascript  src="http://www.cajian.com/static/js/video_html5.js"&gt;&lt;/script&gt;</summary><category term="Books"></category></entry><entry><title>Markdown</title><link href="http://blog.bungeer.com/markdown.html" rel="alternate"></link><updated>2013-10-21T11:30:23+08:00</updated><author><name>king6cong</name></author><id>tag:blog.bungeer.com,2013-10-21:markdown.html</id><summary type="html">&lt;h1&gt;This is an&amp;nbsp;H1&lt;/h1&gt;
-&lt;h2&gt;This is an&amp;nbsp;H2&lt;/h2&gt;
-&lt;h6&gt;This is an&amp;nbsp;H6&lt;/h6&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;This is a list item with two paragraphs. Lorem ipsum dolor
-    sit amet, consectetuer adipiscing elit. Aliquam hendrerit
-    mi posuere&amp;nbsp;lectus.&lt;/p&gt;
-&lt;p&gt;Vestibulum enim wisi, viverra nec, fringilla in, laoreet
-vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
-sit amet&amp;nbsp;velit.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Suspendisse id sem consectetuer libero luctus&amp;nbsp;adipiscing.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;4&amp;lt;5&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;This is a regular&amp;nbsp;paragraph.&lt;/p&gt;
-&lt;table&gt;
-    &lt;tr&gt;
-        &lt;td&gt;Foo&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;p&gt;This is another regular&amp;nbsp;paragraph.&lt;/p&gt;
+&lt;script type=text/javascript  src="http://cajian.com/static/js/video_html5.js"&gt;&lt;/script&gt;</summary></entry><entry><title>科技乱想</title><link href="http://blog.bungeer.com/about-tech.html" rel="alternate"></link><updated>2013-10-30T10:20:00+08:00</updated><author><name>king6cong</name></author><id>tag:blog.bungeer.com,2013-10-30:about-tech.html</id><summary type="html">&lt;p&gt;蓦然回首,发现童年对未来的美好设想已经成为了现实,总会让人感慨:活着真好。&lt;/p&gt;
+&lt;p&gt;小时候无聊抑或无法入眠的时候，就会漫无边际的意淫些有趣的东西。主要主题就是“要是有个＊＊样的东西就好了”。也经常看些科技杂志，说科学家&lt;strong&gt;年后就会实现&lt;/strong&gt;，说的自己对未来充满向往。&lt;/p&gt;
+&lt;p&gt;那时爱看书，每逢得到本新书，总是小心翼翼的来回翻着，伴着书香，静静地感受着它的厚度，竟会因为还有内容可看而感觉到强烈的幸福感。也清晰的记得，随着未看的页数越来越少，心里越发的感觉到一丝凄凉。那时自然的就有个愿望，要是有本永远看不完的书该多好！&lt;/p&gt;
+&lt;p&gt;但那时买本稍微有点厚度的书就要几十块钱，实在是太贵了，那时认为这么贵成本在纸本身，若不需造纸印书，没有了这份成本，就可以免费无限量阅读了。丝毫没有考虑作者也要养家吃饭，既然不需要印书，也无需出版社了。&lt;/p&gt;
+&lt;p&gt;也于是开始幻想这样一个设备：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae,&amp;nbsp;risus.&lt;/p&gt;
-&lt;p&gt;Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-id sem consectetuer libero luctus&amp;nbsp;adipiscing.&lt;/p&gt;
-&lt;p&gt;This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae,&amp;nbsp;risus.&lt;/p&gt;
-&lt;p&gt;Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-id sem consectetuer libero luctus&amp;nbsp;adipiscing.&lt;/p&gt;
-&lt;p&gt;This is the first level of&amp;nbsp;quoting.&lt;/p&gt;
+&lt;p&gt;它看起来就是半张报纸，也可以像报纸一样卷起来。每天所有报纸的内容都会发到上面；世界上的所有书籍&amp;nbsp;在上面都可以在上面直接找到并直接阅读。所有的内容都是免费的。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;随身带着这样一张永远看不完的报纸，所有内容集于一身，年幼的自己憧憬不已。&lt;/p&gt;
+&lt;p&gt;而后看电视的时候，被每天一集的节奏折磨地体无完肤，自然又极度任性地对那张报纸寄予另一番厚望：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;This is nested&amp;nbsp;blockquote.&lt;/p&gt;
+&lt;p&gt;它可以播放所有的电视剧电影&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Back to the first&amp;nbsp;level.&lt;/p&gt;
-&lt;h2&gt;This is a&amp;nbsp;header.&lt;/h2&gt;
+&lt;p&gt;现在回想起来，虽然有些过于理想主义，但实际上梦想的生活已经确确实实来了。&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;This is the first list&amp;nbsp;item.&lt;/li&gt;
-&lt;li&gt;This is the second list&amp;nbsp;item.&lt;/li&gt;
+&lt;li&gt;接触计算机以后，像水蛭终于爬上了大腿，在上面肆无忌惮地阅读。精美排版的pdf，越来越清晰的电影，浩如烟海的内容，已经很接近童年的设想了。&lt;/li&gt;
+&lt;li&gt;人的愿望总是美好的，人们一波一波，前赴后继地尝试着将桌面电脑身量缩小随身携带，从开始地超概念，到现在已经随处可见融入大众生活的移动设备，Kindle的发布，Ipad的流行，可以说，当年的意淫已经得到了满足。&lt;/li&gt;
+&lt;li&gt;剩下的，或许是更多人机交互的革命，比如超薄弯曲的屏幕。但这些只能归为载体的变革了。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Here&amp;#8217;s some example&amp;nbsp;code:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="nf"&gt;shell_exec&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;echo $input | $markdown_script&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;/blockquote&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;  &lt;span class="mf"&gt;1.&lt;/span&gt;  &lt;span class="n"&gt;Bird&lt;/span&gt;
-  &lt;span class="mf"&gt;1.&lt;/span&gt;  &lt;span class="n"&gt;McHale&lt;/span&gt;
-  &lt;span class="mf"&gt;1.&lt;/span&gt;  &lt;span class="n"&gt;Parish&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;ol&gt;
-&lt;li&gt;Bird&lt;/li&gt;
-&lt;li&gt;McHale&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Parish&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Bird&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;McHale&lt;/li&gt;
-&lt;li&gt;Parish&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr /&gt;
+&lt;p&gt;我们总是局限于自己已有的体验。希望新的事物能按着老事物的方式运行。
+满足了物质需求以后，我们追求的是精神世界。物质让我们生存，精神让我们生活。&amp;nbsp;精神世界的本质是内容，其余的皆为载体。本质之外的东西从来都是可以抛弃的，而每次成功的抛弃总会让我们里本质越来越近。每次载体的大革命也都带来了人类社会的大变革，就像历史上纸的出现，计算机的流行。&lt;/p&gt;
+&lt;p&gt;谁知道从文明诞生就跟随着我们的各种各样的信息载体的究极形态呢？&lt;/p&gt;</summary><category term="blog"></category></entry><entry><title>关于技能</title><link href="http://blog.bungeer.com/about-skill.html" rel="alternate"></link><updated>2013-10-25T22:49:48+08:00</updated><author><name>king6cong</name></author><id>tag:blog.bungeer.com,2013-10-25:about-skill.html</id><summary type="html">&lt;h3&gt;如何确认自己已经精通了一种技能&lt;/h3&gt;
+&lt;p&gt;人脑是一个拥有各级缓存的存储器，最容易读取的是最近使用的记忆。无论怎样博览群书，阅历无限，信手拈来的永远是最近得来的信息。多年的大脑使用经验告诉我，&lt;strong&gt;尘封的记忆&lt;/strong&gt;这个描述简直太贴切了：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Red&lt;/li&gt;
-&lt;li&gt;Green&lt;/li&gt;
-&lt;li&gt;Blue&lt;/li&gt;
+&lt;li&gt;曾经苦心孤诣研究网络安全和hacker&amp;nbsp;tools一段时间，而后集中精力做了其他事情。回头一看，脑中可以直接揪出来的只剩下nmap这些常用的东西了。&lt;/li&gt;
+&lt;li&gt;也心血来潮的抓起 &lt;a href="http://www.amazon.com/Mathematics-Elementary-Approach-Ideas-Methods/dp/0195105192" title="What Is Mathematics? An Elementary Approach to Ideas and Methods"&gt;What Is Mathematics? An Elementary Approach to Ideas and Methods&lt;/a&gt;&amp;nbsp;,在一次次的醍醐灌顶，茅塞顿开之后，遗忘也成了必然的结局。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr /&gt;
-&lt;p&gt;This is a normal&amp;nbsp;paragraph:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;code&lt;/span&gt; &lt;span class="n"&gt;block&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;p&gt;Here is an example of&amp;nbsp;AppleScript:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;tell&lt;/span&gt; &lt;span class="n"&gt;application&lt;/span&gt; &lt;span class="s"&gt;&amp;quot;Foo&amp;quot;&lt;/span&gt;
-    &lt;span class="n"&gt;beep&lt;/span&gt;
-&lt;span class="n"&gt;end&lt;/span&gt; &lt;span class="n"&gt;tell&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;p&gt;This is &lt;a href="http://example.com/" title="Title"&gt;an example&lt;/a&gt; inline&amp;nbsp;link.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://example.net/"&gt;This link&lt;/a&gt; has no title&amp;nbsp;attribute.&lt;/p&gt;
-&lt;p&gt;See my &lt;a href="/about/"&gt;About&lt;/a&gt; page for&amp;nbsp;details. &lt;/p&gt;
-&lt;p&gt;See my &lt;a href="/schedule"&gt;Schedule&lt;/a&gt; page for&amp;nbsp;details. &lt;/p&gt;
-&lt;p&gt;This is &lt;a href="/images/ic_launcher_clean.png" title="Optional title attribute"&gt;an example&lt;/a&gt; reference-style&amp;nbsp;link.&lt;/p&gt;
-&lt;p&gt;I get 10 times more traffic from &lt;a href="http://google.com/" title="Google"&gt;Google&lt;/a&gt; than from
-&lt;a href="http://search.yahoo.com/" title="Yahoo Search"&gt;Yahoo&lt;/a&gt; or &lt;a href="http://search.msn.com/" title="MSN Search"&gt;&lt;span class="caps"&gt;MSN&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;I get 10 times more traffic from &lt;a href="http://google.com/" title="Google"&gt;Google&lt;/a&gt; than from
-&lt;a href="http://search.yahoo.com/" title="Yahoo Search"&gt;Yahoo&lt;/a&gt; or &lt;a href="http://search.msn.com/" title="MSN Search"&gt;&lt;span class="caps"&gt;MSN&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;single&amp;nbsp;asterisks&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;double&amp;nbsp;asterisks&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;un&lt;em&gt;frigging&lt;/em&gt;believable&lt;/p&gt;
-&lt;p&gt;*this text is surrounded by literal&amp;nbsp;asterisks*&lt;/p&gt;
-&lt;p&gt;Use the &lt;code&gt;printf()&lt;/code&gt; function.&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;There is a literal backtick (`) here.&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;A single backtick in a code span: &lt;code&gt;`&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;A backtick-delimited string in a code span: &lt;code&gt;`foo`&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Please don&amp;#8217;t use any &lt;code&gt;&amp;lt;blink&amp;gt;&lt;/code&gt; tags.&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;&amp;amp;#8212;&lt;/code&gt; is the decimal-encoded equivalent of &lt;code&gt;&amp;amp;mdash;&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Alt text" src="/images/ic_launcher_clean.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Alt text" src="/images/ic_launcher_clean.png" title="Optional title" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Alt text" src="/images/ic_launcher_clean.png" title="Optional title attribute" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://example.com/"&gt;http://example.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#116;&amp;#111;&amp;#58;&amp;#97;&amp;#100;&amp;#100;&amp;#114;&amp;#101;&amp;#115;&amp;#115;&amp;#64;&amp;#101;&amp;#120;&amp;#97;&amp;#109;&amp;#112;&amp;#108;&amp;#101;&amp;#46;&amp;#99;&amp;#111;&amp;#109;"&gt;&amp;#97;&amp;#100;&amp;#100;&amp;#114;&amp;#101;&amp;#115;&amp;#115;&amp;#64;&amp;#101;&amp;#120;&amp;#97;&amp;#109;&amp;#112;&amp;#108;&amp;#101;&amp;#46;&amp;#99;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/p&gt;</summary><category term="markdown"></category></entry><entry><title>Why this blog is opened</title><link href="http://blog.bungeer.com/why-this-blog-is-opened.html" rel="alternate"></link><updated>2013-10-18T16:06:57+08:00</updated><author><name>king6cong</name></author><id>tag:blog.bungeer.com,2013-10-18:why-this-blog-is-opened.html</id><summary type="html">&lt;h3&gt;非哲学家的人生观&lt;/h3&gt;
-&lt;p&gt;虽然不是哲学家，但有时也会经常想想自己的人生。或许天生是个怀旧的人，回忆的味道总是甜美的，既让人心里舒畅，也很自然的让人今昔对比，慨叹自己当时的幼稚，怀念自己曾经的单纯。&lt;/p&gt;
+&lt;p&gt;结论就是：&lt;strong&gt;技能可以无限获取，但关键时刻能够立即施展出来的永远是经常使用的&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;但人脑很神奇，即使会遗忘，即使会一时提取不出来想要的信息，脑中认真走过的内容或多或少都会留下丝丝缕缕的痕迹。当我们再次经历这些内容的时候，总会轻车熟路，用很少时间就能恢复元气。而那些丝丝缕缕的痕迹，成了我们最宝贵的财富。如果所有关键的信息都被这些痕迹囊括，我们才可以说真正通晓了一样的东西:stuff at hand and stuff that can be used immediately.&amp;nbsp;这些内容是我们真正掌握不许思考就可以使用的信息基础，从它们身上我们可以通过思考衍生出很多内容，也就是所谓的创造了。所以知识获取的本质就是获取这些关键点的痕迹。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;这些关键点痕迹是“实”，可以支撑起我们的整个知识体系，按图索骥，信手拈来&lt;/li&gt;
+&lt;li&gt;其他的内容是”形“，可以想想我们从第一句背诵一篇还未读过的文章，即使短时间能够记住了每句话的细节，几小时或者更短，这些内容似乎就销声匿迹，无从寻起了。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;获取应有的轨迹&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;温故而知新&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;说的大概就是这个事情。很多事情思考过多次，体会越来越深，脑中的痕迹越来越多，一旦达到了通晓这个临界点，这个东西就是自己的永久财产了。&lt;/p&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;p&gt;深处信息时代，获取信息从来没有像现在这样容易，我们的知识领域被极大的扩大了。&lt;/p&gt;
+&lt;p&gt;雁过留痕，既然没法保持一直飞翔，那么至少留点东西证明自己飞过。&lt;/p&gt;</summary><category term="skill"></category></entry><entry><title>非哲学家的人生观</title><link href="http://blog.bungeer.com/life-style.html" rel="alternate"></link><updated>2013-10-25T22:47:54+08:00</updated><author><name>king6cong</name></author><id>tag:blog.bungeer.com,2013-10-25:life-style.html</id><summary type="html">&lt;p&gt;虽然不是哲学家，但有时也会经常想想自己的人生。或许天生是个怀旧的人，回忆的味道总是甜美的，既让人心里舒畅，也很自然的让人今昔对比，慨叹自己当时的幼稚，怀念自己曾经的单纯。&lt;/p&gt;
 &lt;p&gt;自己成长似乎有着很多截然不同的阶段。认真想想，其中不少片段真的是沉淀下了人生。如果一辈子是一个电影，那么这个电影的长度完全取决于这些片段。而每个片段过后，我们也不再是曾经的自己了。这是我们生命的轨迹。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;父母的温柔严厉，老师的表扬批评，伙伴的嬉戏打闹，这是童年。心里干净的像北极的雪，一个玩伴可以带来全世界的快乐；&lt;/li&gt;
@@ -175,195 +74,63 @@ id sem consectetuer libero luctus&amp;nbsp;adipiscing.&lt;/p&gt;
 &lt;p&gt;人生本来就是一个过程，从出生开始，以死亡结束，本是一个水到渠成的旅行，却被人们强加上林林总总的目的，设立形形色色的标准。各种成功人士成功学的光辉笼罩下，普通人的失败人生暴漏无疑。这种标准下，成功者总是少数，莫非我们大多数人生下来仅仅是为了做一个微不足道的失败者？&lt;/p&gt;
 &lt;p&gt;人生不应该是为了北京的一个户口一套房；也不应该是为了万众瞩目全民朝拜；人生应该很简单，过程舒适，心里安宁，按着自己的节奏朝着自己喜欢的方向走，这样就好。起码，自己的人生自己走过。我们需要找的是一个活下去和活得好这样一个平衡点。&lt;/p&gt;
 &lt;p&gt;幸福很简单，小时候特别喜欢看书，晚上躺在床上，听着窗外淅沥沥的雨声，在柔柔的灯光下，捧起一本厚厚的书，感觉这是世界上最惬意的事情了。心里想着，长大后，每晚也能这样看书就好了。我心想，那一刻我心里的幸福指数跟很多成功人士比起来，应该高了不少。&lt;/p&gt;
-&lt;p&gt;有时思考是什么让我们忙忙碌碌，让我们烦躁不安，走在路上，看着来往匆匆的人群，看着一张张毫无生气的脸，看着川流不息的车辆。看着四处奔波的一切，我总想弄清楚大家想到哪，是什么动力推使如今这个社会机器运转起来。&lt;/p&gt;
-&lt;h3&gt;如何确认自己已经精通了一种技能&lt;/h3&gt;
-&lt;p&gt;人脑是一个拥有各级缓存的存储器，最容易读取的是最近使用的记忆。无论怎样博览群书，阅历无限，信手拈来的永远是最近得来的信息。多年的大脑使用经验告诉我，&lt;strong&gt;尘封的记忆&lt;/strong&gt;这个描述简直太贴切了：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;曾经苦心孤诣研究网络安全和hacker&amp;nbsp;tools一段时间，而后集中精力做了其他事情。回头一看，脑中可以直接揪出来的只剩下nmap这些常用的东西了。&lt;/li&gt;
-&lt;li&gt;也心血来潮的抓起 &lt;a href="http://www.amazon.com/Mathematics-Elementary-Approach-Ideas-Methods/dp/0195105192" title="What Is Mathematics? An Elementary Approach to Ideas and Methods"&gt;What Is Mathematics? An Elementary Approach to Ideas and Methods&lt;/a&gt;&amp;nbsp;,在一次次的醍醐灌顶，茅塞顿开之后，遗忘也成了必然的结局。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;结论就是：&lt;strong&gt;技能可以无限获取，但关键时刻能够立即施展出来的永远是经常使用的&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;但人脑很神奇，即使会遗忘，即使会一时提取不出来想要的信息，脑中认真走过的内容或多或少都会留下丝丝缕缕的痕迹。当我们再次经历这些内容的时候，总会轻车熟路，用很少时间就能恢复元气。而那些丝丝缕缕的痕迹，成了我们最宝贵的财富。如果所有关键的信息都被这些痕迹囊括，我们才可以说真正通晓了一样的东西:stuff at hand and stuff that can be used immediately.&amp;nbsp;这些内容是我们真正掌握不许思考就可以使用的信息基础，从它们身上我们可以通过思考衍生出很多内容，也就是所谓的创造了。所以知识获取的本质就是获取这些关键点的痕迹。&lt;/p&gt;
+&lt;p&gt;有时思考是什么让我们忙忙碌碌，让我们烦躁不安，走在路上，看着来往匆匆的人群，看着一张张毫无生气的脸，看着川流不息的车辆。看着四处奔波的一切，我总想弄清楚大家想到哪，是什么动力推使如今这个社会机器运转起来。&lt;/p&gt;</summary><category term="lifestyle"></category></entry><entry><title>嵌入优酷html5视频</title><link href="http://blog.bungeer.com/bungeer-video-html5.html" rel="alternate"></link><updated>2013-10-23T10:20:00+08:00</updated><author><name>king6cong</name></author><id>tag:blog.bungeer.com,2013-10-23:bungeer-video-html5.html</id><summary type="html">&lt;p&gt;视频是一种非常有效的表达方式：&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;这些关键点痕迹是“实”，可以支撑起我们的整个知识体系，按图索骥，信手拈来&lt;/li&gt;
-&lt;li&gt;其他的内容是”形“，可以想想我们从第一句背诵一篇还未读过的文章，即使短时间能够记住了每句话的细节，几小时或者更短，这些内容似乎就销声匿迹，无从寻起了。&lt;/li&gt;
+&lt;li&gt;在博客上用视频表达一些观点&lt;/li&gt;
+&lt;li&gt;在产品页提供demo视频，让用户更快了解产品，比如&amp;nbsp;[Bungeer视频app][1]&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;获取应有的轨迹&lt;/h3&gt;
+&lt;p&gt;虽然可以将视频放在自己的server上，但对于非专攻视频的站点:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;访问速度难以保证&lt;/li&gt;
+&lt;li&gt;流量可能也是问题&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;优酷的在这些方面做的很好，将视频放到优酷是不错的解决方案。&lt;/p&gt;
+&lt;p&gt;但是优酷提供的嵌入方式有些不理想的地方：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;桌面浏览器默认使用flash播放，在Mac，Linux等平台上体验不好。&lt;/li&gt;
+&lt;li&gt;短视频的广告较长。视频网站运营费用很高，有广告是非常能让人理解的。但对于短视频，个人认为，可以考虑缩短广告时间。如果广告比视频还长，的确比较尴尬。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;在实际使用中，如果官网高端大气上档次，demo视频却以广告开场，也挺雷人的。&lt;/p&gt;
+&lt;p&gt;在开发Bungeer视频的过程中，提取了这样一个工具，能将优酷视频以html5方式嵌入自己的页面中，播放器使用的是&amp;nbsp;[video.js][2]&lt;/p&gt;
+&lt;h4&gt;how to&amp;nbsp;use：&lt;/h4&gt;
+&lt;p&gt;1.优酷视频url，以及封面（可选），可以嵌入多个视频&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;&amp;lt;div&lt;/span&gt; &lt;span class="na"&gt;class=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;bungeer_video_html5&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://v.youku.com/v_show/id_XNjEyODk1MzM2.html&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;poster=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://www.bungeer.com/static/img/web_hi_res_512.png&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;2.最后引入jQuery以及video_html5.js&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;&amp;lt;script&amp;gt;&lt;/span&gt;window.jQuery || document.write(&amp;#39;&lt;span class="nt"&gt;&amp;lt;script&lt;/span&gt; &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://codeorigin.jquery.com/jquery-1.10.2.min.js&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;&lt;span class="err"&gt;&amp;lt;&lt;/span&gt;\/script&amp;gt;&amp;#39;)&lt;span class="nt"&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;script&lt;/span&gt; &lt;span class="na"&gt;type=&lt;/span&gt;&lt;span class="s"&gt;text/javascript&lt;/span&gt;  &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://www.bungeer.com/static/js/video_html5.js&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;示例：&lt;/p&gt;
+&lt;div class="bungeer_video_html5" href="http://v.youku.com/v_show/id_XNjEyODk1MzM2.html" poster="http://www.bungeer.com/static/img/web_hi_res_512.png"&gt;&lt;/div&gt;
+
+&lt;div class="bungeer_video_html5" href="http://v.youku.com/v_show/id_XNjI3OTA0MzQ4.html" poster="http://www.bungeer.com/static/img/web_hi_res_512.png"&gt;&lt;/div&gt;
+
+&lt;script&gt;window.jQuery || document.write('&lt;script src="http://codeorigin.jquery.com/jquery-1.10.2.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+
+&lt;script type=text/javascript  src="http://www.bungeer.com/static/js/video_html5.js"&gt;&lt;/script&gt;
+
+
+
+
+
+
+[1]: http://bungeer.com/app/android
+[2]:&amp;nbsp;http://www.videojs.com</summary><category term="javascript"></category></entry><entry><title>Bungeer博客</title><link href="http://blog.bungeer.com/why-this-blog-is-opened.html" rel="alternate"></link><updated>2013-10-01T10:20:00+08:00</updated><author><name>king6cong</name></author><id>tag:blog.bungeer.com,2013-10-01:why-this-blog-is-opened.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;Bungeer，蹦极者&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;很喜欢这样一句话，意思大概是这样的：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;温故而知新&lt;/p&gt;
+&lt;p&gt;跳下悬崖后开始造飞机&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;说的大概就是这个事情。很多事情思考过多次，体会越来越深，脑中的痕迹越来越多，一旦达到了通晓这个临界点，这个东西就是自己的永久财产了。&lt;/p&gt;
-&lt;h3&gt;&lt;/h3&gt;
-&lt;p&gt;深处信息时代，获取信息从来没有像现在这样容易，我们的知识领域被极大的扩大了。&lt;/p&gt;
-&lt;p&gt;雁过留痕，既然没法保持一直飞翔，那么至少留点东西证明自己飞过。&lt;/p&gt;
-&lt;h3&gt;关于Bungeer项目(The Bungeer&amp;nbsp;project)&lt;/h3&gt;
-&lt;p&gt;Bungee，蹦极，Bungeer蹦极者，我想通过这个项目产生一些我们真正需要的东西，让它产生一些价值。&lt;/p&gt;
-&lt;p&gt;现在想来，主要有几点：
-1. 产生一些有使用价值的产品
-2.&amp;nbsp;输出一些有帮助的信息&lt;/p&gt;
+&lt;p&gt;我们崇尚循规蹈矩，总期望着一切准备就绪，而后一鸣惊人。而我们的激情，机会也在无尽的等待中逐渐磨灭。&lt;/p&gt;
+&lt;p&gt;我们亲身经历了一场伟大的信息革命，看到了无数的潮起潮落。我们总是习惯与冷眼旁观，而就在我们指点江山的时候，变化依旧在实实在在地发生着。&lt;/p&gt;
+&lt;p&gt;当年看完 &lt;a href="http://movie.douban.com/subject/3205624/"&gt;社交网络 The Social Network&lt;/a&gt; ,感慨万千，最大的感受是人家付诸行动了。&lt;strong&gt;Do&lt;/strong&gt; it and &lt;strong&gt;learn&lt;/strong&gt; it in the&amp;nbsp;process.&lt;/p&gt;
+&lt;p&gt;即刻启程，俯身一跳的同时，也完成了旁观者到参与者的华丽蜕变。&lt;/p&gt;
+&lt;p&gt;这就是蹦极。&lt;/p&gt;
+&lt;p&gt;我想通过这个项目产生一些我们真正需要的东西，让它产生一些价值。&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;企业解决方案&lt;/li&gt;
-&lt;li&gt;安全相关&lt;/li&gt;
-&lt;li&gt;消费级app&lt;/li&gt;
-&lt;li&gt;游戏&lt;/li&gt;
-&lt;/ol&gt;</summary><category term="blog"></category></entry><entry><title>Schedule</title><link href="http://blog.bungeer.com/schedule.html" rel="alternate"></link><updated>2010-12-03T10:20:00+08:00</updated><author><name>king6cong</name></author><id>tag:blog.bungeer.com,2010-12-03:schedule.html</id><summary type="html">&lt;h1&gt;project &lt;em&gt;bungee&lt;/em&gt;&lt;/h1&gt;
-&lt;h1&gt;Bungeer项目的诞生&lt;/h1&gt;
-&lt;h2&gt;server&lt;/h2&gt;
-&lt;p&gt;a. server
-   1. restful
-   2. nginx
-   3.&amp;nbsp;to-do&lt;/p&gt;
-&lt;h2&gt;client&lt;/h2&gt;
-&lt;p&gt;a. web
-   1. jquery/bootstrap
-   2. nodejs
-b. app
-   1. ios 
-   2.&amp;nbsp;android&lt;/p&gt;
-&lt;h2&gt;res&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;pic&lt;/li&gt;
-&lt;li&gt;relation&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;mng&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;scm&amp;nbsp;git&lt;/li&gt;
-&lt;li&gt;python&amp;nbsp;supervisor &lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;python:&lt;/h3&gt;
-&lt;p&gt;yaourt -S&amp;nbsp;python2-pip&lt;/p&gt;
-&lt;h3&gt;virtualenv:&amp;nbsp;http://www.virtualenv.org/en/latest/&lt;/h3&gt;
-&lt;p&gt;sudo pip2 install virtualenv
-virtualenv &lt;span class="caps"&gt;ENV&lt;/span&gt;
-virtualenv &amp;#8212;system-site-packages &lt;span class="caps"&gt;ENV&lt;/span&gt;
-virtualenv &amp;#8212;distribute &lt;span class="caps"&gt;ENV&lt;/span&gt;
-virtualenv &amp;#8212;extra-search-dir=/path/to/dists &amp;#8212;extra-search-dir=/path/to/other/dists &lt;span class="caps"&gt;ENV&lt;/span&gt;
-source bin/activate&amp;nbsp;deactivate&lt;/p&gt;
-&lt;h3&gt;pip-tools&lt;/h3&gt;
-&lt;p&gt;https://github.com/nvie/pip-tools
-pip install&amp;nbsp;pip-tools&lt;/p&gt;
-&lt;h3&gt;gevent&amp;nbsp;https://github.com/surfly/gevent&lt;/h3&gt;
-&lt;p&gt;pip install cython -e&amp;nbsp;git://github.com/surfly/gevent.git@1.0rc2#egg=gevent&lt;/p&gt;
-&lt;h3&gt;git&lt;/h3&gt;
-&lt;h3&gt;gunicorn&amp;nbsp;http://gunicorn.org&lt;/h3&gt;
-&lt;p&gt;pip install gunicorn
-gunicorn -w 4 -b :5000&amp;nbsp;fv:app&lt;/p&gt;
-&lt;h3&gt;nginx&lt;/h3&gt;
-&lt;p&gt;pacman -S&amp;nbsp;nginx&lt;/p&gt;
-&lt;h3&gt;flask&lt;/h3&gt;
-&lt;p&gt;pip install Flask
-pip install -e&amp;nbsp;&amp;#8216;git+http://github.com/sjl/flask-lesscss.git@v0.9.1#egg=flask-lesscss&amp;#8217;&lt;/p&gt;
-&lt;p&gt;pip install&amp;nbsp;Flask-Coffee&lt;/p&gt;
-&lt;p&gt;pip install flask-security&amp;nbsp;flask-sqlalchemy&lt;/p&gt;
-&lt;h3&gt;coffee&lt;/h3&gt;
-&lt;p&gt;sudo npm install -g&amp;nbsp;coffee-script&lt;/p&gt;
-&lt;h3&gt;less&amp;nbsp;http://lesscss.org/&lt;/h3&gt;
-&lt;p&gt;sudo npm install -g less
-lessc styles.less&amp;nbsp;styles.css&lt;/p&gt;
-&lt;h3&gt;pip&amp;nbsp;tips&lt;/h3&gt;
-&lt;p&gt;pip uninstall&amp;nbsp;flask-lesscss&lt;/p&gt;
-&lt;h3&gt;https://github.com/blueimp/jQuery-File-Upload&lt;/h3&gt;
-&lt;h3&gt;https://github.com/blueimp/JavaScript-Load-Image&lt;/h3&gt;
-&lt;h3&gt;https://github.com/blueimp/JavaScript-Canvas-to-Blob&lt;/h3&gt;
-&lt;h3&gt;riak&lt;/h3&gt;
-&lt;p&gt;pip install&amp;nbsp;riak&lt;/p&gt;
-&lt;h3&gt;celery&lt;/h3&gt;
-&lt;p&gt;pip install -U&amp;nbsp;Celery&lt;/p&gt;
-&lt;h3&gt;redis&lt;/h3&gt;
-&lt;p&gt;pip install&amp;nbsp;redis&lt;/p&gt;
-&lt;h3&gt;rabbitmq&lt;/h3&gt;
-&lt;p&gt;yaourt  -S rabbitmq
-pip install&amp;nbsp;librabbitmq&lt;/p&gt;
-&lt;h3&gt;flake8&lt;/h3&gt;
-&lt;p&gt;pip install&amp;nbsp;flake8&lt;/p&gt;
-&lt;h3&gt;Fabric&amp;nbsp;http://docs.fabfile.org&lt;/h3&gt;
-&lt;p&gt;pip install fabric
-fab -i /mnt/air/Dropbox/diary/king6cong.pem -H localhost,www.chuckjane.com -f fabric_test.py host_type
-fab -f fabric_test.py&amp;nbsp;host_type&lt;/p&gt;
-&lt;h3&gt;git&lt;/h3&gt;
-&lt;p&gt;git config &amp;#8212;global user.name &amp;#8220;king6cong&amp;#8221;
-git config &amp;#8212;global user.email&amp;nbsp;king6cong@gmail.com&lt;/p&gt;
-&lt;p&gt;git config &amp;#8212;global core.editor&amp;nbsp;vim&lt;/p&gt;
-&lt;p&gt;git config &amp;#8212;global alias.st status
-git config &amp;#8212;global alias.co checkout
-git config &amp;#8212;global alias.br branch
-git config &amp;#8212;global alias.up rebase
-git config &amp;#8212;global alias.ci&amp;nbsp;commit&lt;/p&gt;
-&lt;p&gt;git config &amp;#8212;global &amp;#8212;edit
-git log &amp;#8212;author=&amp;#8221;John Smith&amp;#8221; -p hello.py
-git log &amp;#8212;oneline master..some-feature
-git log &amp;#8212;grep=&amp;#8221;&lt;pattern&gt;&amp;#8221;
-git log -p
-git log &amp;#8212;stat
-git log &amp;#8212;oneline
-git log -n &lt;limit&gt;&lt;/p&gt;
-&lt;h3&gt;http://python-rq.org&lt;/h3&gt;
-&lt;p&gt;pip install&amp;nbsp;rq&lt;/p&gt;
-&lt;h3&gt;git&amp;nbsp;tips&lt;/h3&gt;
-&lt;p&gt;mkdir /path/to/your/project
-git init
-git remote add origin&amp;nbsp;https://king6cong@bitbucket.org/king6cong/bungee.git&lt;/p&gt;
-&lt;p&gt;git remote add origin https://king6cong@bitbucket.org/king6cong/bungee.git
-git push -u origin &amp;#8212;all   # to push changes for the first&amp;nbsp;time&lt;/p&gt;
-&lt;p&gt;git reset &amp;#8212;hard
-git clean -f
-git clean&amp;nbsp;-dfx&lt;/p&gt;
-&lt;p&gt;git branch
-git branch &lt;branch&gt;
-git branch -d &lt;branch&gt;
-git branch -D &lt;branch&gt;
-git branch -m &lt;branch&gt;&lt;/p&gt;
-&lt;p&gt;git checkout &lt;commit&gt; &lt;file&gt;
-git checkout &lt;commit&gt;
-git checkout &lt;existing-branch&gt;
-git checkout -b &lt;new-branch&gt;
-git checkout -b &lt;new-branch&gt; &lt;existing-branch&gt;&lt;/p&gt;
-&lt;p&gt;git commit &amp;#8212;amend
-git commit &amp;#8212;amend &amp;#8212;no-edit
-android update&amp;nbsp;adb&lt;/p&gt;
-&lt;p&gt;git remote
-git remote -v
-git remote add &lt;name&gt; &lt;url&gt;
-git remote rm &lt;name&gt;
-git remote rename &lt;old-name&gt; &lt;new-name&gt;&lt;/p&gt;
-&lt;p&gt;git checkout master
-git fetch origin master
-git rebase -i&amp;nbsp;origin/master&lt;/p&gt;
-&lt;h1&gt;Squash commits, fix up commit messages&amp;nbsp;etc.&lt;/h1&gt;
-&lt;p&gt;git push origin&amp;nbsp;master&lt;/p&gt;
-&lt;p&gt;git clone&amp;nbsp;git@github.com:king6cong/flask.git&lt;/p&gt;
-&lt;h3&gt;pelican&amp;nbsp;https://github.com/getpelican/pelican&lt;/h3&gt;
-&lt;p&gt;pip install pelican Markdown
-pip install&amp;nbsp;ghp-import&lt;/p&gt;
-&lt;h3&gt;nltk&lt;/h3&gt;
-&lt;p&gt;sudo pip install -U pyyaml nltk
-python -m nltk.downloader -d&amp;nbsp;/Users/cong/store/nltk&lt;/p&gt;
-&lt;h3&gt;sass&lt;/h3&gt;
-&lt;p&gt;gem install&amp;nbsp;sass&lt;/p&gt;
-&lt;h3&gt;PyMC&lt;/h3&gt;
-&lt;p&gt;pip install&amp;nbsp;pymc&lt;/p&gt;
-&lt;p&gt;sudo pacman -S&amp;nbsp;gcc-fortran&lt;/p&gt;
-&lt;h3&gt;popup&lt;/h3&gt;
-&lt;p&gt;http://dimsemenov.com/plugins/magnific-popup/&lt;/p&gt;
-&lt;p&gt;sudo pip install requests
-sudo pip install scrapy
-sudo pip install ujson
-sudo pip install&amp;nbsp;beautifulsoup4&lt;/p&gt;
-&lt;p&gt;sudo pacman -S sqlite
-sudo pacman -S&amp;nbsp;svn&lt;/p&gt;
-&lt;p&gt;svn checkout http://py-leveldb.googlecode.com/svn/trunk/ py-leveldb-read-only
-cd py-leveldb-read-only
-./compile_leveldb.sh
-python setup.py build
-sudo python setup.py&amp;nbsp;install&lt;/p&gt;
-&lt;p&gt;gunicorn gserver:http_server -k gevent -b 127.0.0.1:80
-gunicorn app:app -k gevent -b 0.0.0.0:80 &amp;#8212;debug
-scp redis_3888.rdb&amp;nbsp;root@107.20.212.56:/root&lt;/p&gt;
-&lt;h3&gt;basic&lt;/h3&gt;
-&lt;p&gt;play video
-1. iqiyi youku tudou sohu qq sina || mp4 m3u8 flv || stream download || notify || continue || web android ios
-2. comment || chat
-3.&amp;nbsp;tv&lt;/p&gt;
-&lt;p&gt;&lt;span class="caps"&gt;PYTHONUNBUFFERED&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;sudo pacman -S&amp;nbsp;nginx&lt;/p&gt;
-&lt;p&gt;pip install&amp;nbsp;Flask-Mail&lt;/p&gt;</summary><category term="Python"></category></entry></feed>
+&lt;li&gt;产生一些有使用价值的产品，做自己想要，别人需要的产品&lt;/li&gt;
+&lt;li&gt;输出一些有帮助的信息，总结自己，帮助别人&lt;/li&gt;
+&lt;/ol&gt;</summary><category term="blog"></category></entry></feed>
