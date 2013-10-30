@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bungeer</title><link>http://blog.bungeer.com/</link><description></description><atom:link href="http://blog.bungeer.com/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 30 Oct 2013 18:17:13 +0800</lastBuildDate><item><title>书单</title><link>http://blog.bungeer.com/book-list.html</link><description>&lt;p&gt;&lt;a href="http://www.amazon.com/Non-Designers-Design-Book-Robin-Williams/dp/0321534042"&gt;The Non-Designer&amp;#8217;s Design Book (3rd&amp;nbsp;Edition)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Bungeer视频聚合演示视频&lt;/p&gt;
-&lt;p&gt;关于梦想
-&lt;div class="bungeer_video_html5" href="http://v.youku.com/v_show/id_XNjE0MjYzMjMy.html" poster="http://www.bungeer.com/static/img/34w.png"&gt;&lt;/div&gt;&lt;/p&gt;
-&lt;div class="bungeer_video_html5" href="http://v.youku.com/v_show/id_XNjE0MjYzMjMy.html" poster="http://www.bungeer.com/static/img/34w.png"&gt;&lt;/div&gt;
-
-&lt;p&gt;entertainment
-&lt;div class="bungeer_video_html5" href="http://v.youku.com/v_show/id_XNjIzMTAwNjg0.html" poster="http://www.bungeer.com/static/img/12w.png"&gt;&lt;/div&gt;&lt;/p&gt;
-&lt;div class="bungeer_video_html5" href="http://v.qq.com/cover/z/zq27gqz51brx2rz.html" poster=""&gt;&lt;/div&gt;
-
-&lt;p&gt;http://v.youku.com/v_show/id_XNjI3OTA0MzQ4.html&lt;/p&gt;
-&lt;script&gt;window.jQuery || document.write('&lt;script src="http://bungeer.com/static/boilerplate/js/vendor/jquery-1.9.1.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
-
-&lt;script type=text/javascript  src="http://cajian.com/static/js/video_html5.js"&gt;&lt;/script&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">king6cong</dc:creator><pubDate>Wed, 30 Oct 2013 18:17:13 +0800</pubDate><guid>tag:blog.bungeer.com,2013-10-30:book-list.html</guid></item><item><title>科技乱想</title><link>http://blog.bungeer.com/about-tech.html</link><description>&lt;p&gt;蓦然回首,发现童年对未来的美好设想已经成为了现实,总会让人感慨:活着真好。&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bungeer</title><link>http://blog.bungeer.com/</link><description></description><atom:link href="http://blog.bungeer.com/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 30 Oct 2013 10:20:00 +0800</lastBuildDate><item><title>科技乱想</title><link>http://blog.bungeer.com/about-tech.html</link><description>&lt;p&gt;蓦然回首,发现童年对未来的美好设想已经成为了现实,总会让人感慨:活着真好。&lt;/p&gt;
 &lt;p&gt;小时候无聊抑或无法入眠的时候，就会漫无边际的意淫些有趣的东西。主要主题就是“要是有个＊＊样的东西就好了”。也经常看些科技杂志，说科学家&lt;strong&gt;年后就会实现&lt;/strong&gt;，说的自己对未来充满向往。&lt;/p&gt;
 &lt;p&gt;那时爱看书，每逢得到本新书，总是小心翼翼的来回翻着，伴着书香，静静地感受着它的厚度，竟会因为还有内容可看而感觉到强烈的幸福感。也清晰的记得，随着未看的页数越来越少，心里越发的感觉到一丝凄凉。那时自然的就有个愿望，要是有本永远看不完的书该多好！&lt;/p&gt;
-&lt;p&gt;但那时买本稍微有点厚度的书就要几十块钱，实在是太贵了，那时认为这么贵成本在纸本身，若不需造纸印书，没有了这份成本，就可以免费无限量阅读了。丝毫没有考虑作者也要养家吃饭，既然不需要印书，也无需出版社了。&lt;/p&gt;
+&lt;p&gt;但买本稍微有点厚度的书就要几十块钱，过于昂贵，那是自己认为成本在纸本身，若不需造纸印书；没有了这份成本，就可以免费无限量阅读了。丝毫没有考虑作者也要养家吃饭；也认为既然不需要印书，自然也无需出版社了。&lt;/p&gt;
 &lt;p&gt;也于是开始幻想这样一个设备：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;它看起来就是半张报纸，也可以像报纸一样卷起来。每天所有报纸的内容都会发到上面；世界上的所有书籍&amp;nbsp;在上面都可以在上面直接找到并直接阅读。所有的内容都是免费的。&lt;/p&gt;
@@ -25,6 +12,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;它可以播放所有的电视剧电影&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;hr /&gt;
 &lt;p&gt;现在回想起来，虽然有些过于理想主义，但实际上梦想的生活已经确确实实来了。&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;接触计算机以后，像水蛭终于爬上了大腿，在上面肆无忌惮地阅读。精美排版的pdf，越来越清晰的电影，浩如烟海的内容，已经很接近童年的设想了。&lt;/li&gt;
@@ -33,51 +21,10 @@
 &lt;/ol&gt;
 &lt;p&gt;我们总是局限于自己已有的体验。希望新的事物能按着老事物的方式运行。
 满足了物质需求以后，我们追求的是精神世界。物质让我们生存，精神让我们生活。&amp;nbsp;精神世界的本质是内容，其余的皆为载体。本质之外的东西从来都是可以抛弃的，而每次成功的抛弃总会让我们里本质越来越近。每次载体的大革命也都带来了人类社会的大变革，就像历史上纸的出现，计算机的流行。&lt;/p&gt;
-&lt;p&gt;谁知道从文明诞生就跟随着我们的各种各样的信息载体的究极形态呢？&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">king6cong</dc:creator><pubDate>Wed, 30 Oct 2013 10:20:00 +0800</pubDate><guid>tag:blog.bungeer.com,2013-10-30:about-tech.html</guid><category>blog</category></item><item><title>关于技能</title><link>http://blog.bungeer.com/about-skill.html</link><description>&lt;h3&gt;如何确认自己已经精通了一种技能&lt;/h3&gt;
-&lt;p&gt;人脑是一个拥有各级缓存的存储器，最容易读取的是最近使用的记忆。无论怎样博览群书，阅历无限，信手拈来的永远是最近得来的信息。多年的大脑使用经验告诉我，&lt;strong&gt;尘封的记忆&lt;/strong&gt;这个描述简直太贴切了：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;曾经苦心孤诣研究网络安全和hacker&amp;nbsp;tools一段时间，而后集中精力做了其他事情。回头一看，脑中可以直接揪出来的只剩下nmap这些常用的东西了。&lt;/li&gt;
-&lt;li&gt;也心血来潮的抓起 &lt;a href="http://www.amazon.com/Mathematics-Elementary-Approach-Ideas-Methods/dp/0195105192" title="What Is Mathematics? An Elementary Approach to Ideas and Methods"&gt;What Is Mathematics? An Elementary Approach to Ideas and Methods&lt;/a&gt;&amp;nbsp;,在一次次的醍醐灌顶，茅塞顿开之后，遗忘也成了必然的结局。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;结论就是：&lt;strong&gt;技能可以无限获取，但关键时刻能够立即施展出来的永远是经常使用的&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;但人脑很神奇，即使会遗忘，即使会一时提取不出来想要的信息，脑中认真走过的内容或多或少都会留下丝丝缕缕的痕迹。当我们再次经历这些内容的时候，总会轻车熟路，用很少时间就能恢复元气。而那些丝丝缕缕的痕迹，成了我们最宝贵的财富。如果所有关键的信息都被这些痕迹囊括，我们才可以说真正通晓了一样的东西:stuff at hand and stuff that can be used immediately.&amp;nbsp;这些内容是我们真正掌握不许思考就可以使用的信息基础，从它们身上我们可以通过思考衍生出很多内容，也就是所谓的创造了。所以知识获取的本质就是获取这些关键点的痕迹。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;这些关键点痕迹是“实”，可以支撑起我们的整个知识体系，按图索骥，信手拈来&lt;/li&gt;
-&lt;li&gt;其他的内容是”形“，可以想想我们从第一句背诵一篇还未读过的文章，即使短时间能够记住了每句话的细节，几小时或者更短，这些内容似乎就销声匿迹，无从寻起了。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;获取应有的轨迹&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;温故而知新&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;说的大概就是这个事情。很多事情思考过多次，体会越来越深，脑中的痕迹越来越多，一旦达到了通晓这个临界点，这个东西就是自己的永久财产了。&lt;/p&gt;
-&lt;h3&gt;&lt;/h3&gt;
-&lt;p&gt;深处信息时代，获取信息从来没有像现在这样容易，我们的知识领域被极大的扩大了。&lt;/p&gt;
-&lt;p&gt;雁过留痕，既然没法保持一直飞翔，那么至少留点东西证明自己飞过。&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">king6cong</dc:creator><pubDate>Fri, 25 Oct 2013 22:49:48 +0800</pubDate><guid>tag:blog.bungeer.com,2013-10-25:about-skill.html</guid><category>skill</category></item><item><title>非哲学家的人生观</title><link>http://blog.bungeer.com/life-style.html</link><description>&lt;p&gt;虽然不是哲学家，但有时也会经常想想自己的人生。或许天生是个怀旧的人，回忆的味道总是甜美的，既让人心里舒畅，也很自然的让人今昔对比，慨叹自己当时的幼稚，怀念自己曾经的单纯。&lt;/p&gt;
-&lt;p&gt;自己成长似乎有着很多截然不同的阶段。认真想想，其中不少片段真的是沉淀下了人生。如果一辈子是一个电影，那么这个电影的长度完全取决于这些片段。而每个片段过后，我们也不再是曾经的自己了。这是我们生命的轨迹。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;父母的温柔严厉，老师的表扬批评，伙伴的嬉戏打闹，这是童年。心里干净的像北极的雪，一个玩伴可以带来全世界的快乐；&lt;/li&gt;
-&lt;li&gt;课业的逐步繁重，情窦的含苞待放；未来的美好憧憬，这是中学。眼界单纯的好像肥皂泡，一支笔杆想要撼动整个宇宙；&lt;/li&gt;
-&lt;li&gt;都市的灯红酒绿，做事的天马行空，父母的喋喋不休，这是大学；似乎是刚准备飞的独鸟，刚拍翅膀就想一鸣惊人；&lt;/li&gt;
-&lt;li&gt;面试的忙忙碌碌，拿到offer的欣喜若狂，刚得到工作的兢兢业业，这是刚开始工作。好像刚刚睁眼的婴儿，第一次这么清楚的看到这个世界。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;然后呢？猛然一回首，不知不觉，已经工作了几年。但能够加进人生电影里的片段却没有增多。&lt;/p&gt;
-&lt;p&gt;父母的庇护下日子总是过于舒适，躲在父母身后的我们自然有着人生最宝贵的片段。从离家的日子&amp;#8212;大学看起。大学的日子溜走地无声无息，但最后心里还是留下了些许印记。开始工作的日子，满腔热情，想释放自己所有的才华，奉献所有的精力。这些都很美。但漫长的工作却磨灭了很多最初的激情。越来越觉得像是在雾里小跑，匆匆忙忙，望不到终点，也看不清身边，唯一留在身上的，是湿漉漉的现实。&lt;/p&gt;
-&lt;p&gt;一步步，不知对错，但也按部就班，有条不紊。每个阶段无疑都是成长了什么，也似乎丢掉了些什么。&lt;/p&gt;
-&lt;p&gt;一条路，一个人走，每一步都有他自己的理由；一条路，一群人走，人群里的我们，抑或是被推搡着，身不由己；或者是紧跟着，亦步亦趋。群体的力量显而易见，跟着他，我们能生存；而过度同化的危害也不容小觑，每个人循规蹈矩，不敢多迈出一步，怎样走不过都是兜着圈，像粉笔圈起来的蚂蚁，虽然一刻不停，结局却是显而易见。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;我不是一个天生标新立异的人，小时候像个傻瓜和大家一起乐呵，学生时候像个傻瓜一样和大家一起啃书。但也乐在其中;&lt;/li&gt;
-&lt;li&gt;我也不是一个主意很正的人。虽然从高中开始，发现真正的学习是自学，大学即使不上课，我也安安稳稳地呆到了毕业。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;但我越来越觉得自己想在人群中挣扎着看看圈外的世界。我觉得，我们走偏了。&lt;/p&gt;
-&lt;p&gt;人生的本质是什么，这不应该是哲学家才需要想的问题。因为我们正在丧失人生的控制权，而且速度越来越快。&lt;/p&gt;
-&lt;h3&gt;怎样的人生才算成功？&lt;/h3&gt;
-&lt;p&gt;人生本来就是一个过程，从出生开始，以死亡结束，本是一个水到渠成的旅行，却被人们强加上林林总总的目的，设立形形色色的标准。各种成功人士成功学的光辉笼罩下，普通人的失败人生暴漏无疑。这种标准下，成功者总是少数，莫非我们大多数人生下来仅仅是为了做一个微不足道的失败者？&lt;/p&gt;
-&lt;p&gt;人生不应该是为了北京的一个户口一套房；也不应该是为了万众瞩目全民朝拜；人生应该很简单，过程舒适，心里安宁，按着自己的节奏朝着自己喜欢的方向走，这样就好。起码，自己的人生自己走过。我们需要找的是一个活下去和活得好这样一个平衡点。&lt;/p&gt;
-&lt;p&gt;幸福很简单，小时候特别喜欢看书，晚上躺在床上，听着窗外淅沥沥的雨声，在柔柔的灯光下，捧起一本厚厚的书，感觉这是世界上最惬意的事情了。心里想着，长大后，每晚也能这样看书就好了。我心想，那一刻我心里的幸福指数跟很多成功人士比起来，应该高了不少。&lt;/p&gt;
-&lt;p&gt;有时思考是什么让我们忙忙碌碌，让我们烦躁不安，走在路上，看着来往匆匆的人群，看着一张张毫无生气的脸，看着川流不息的车辆。看着四处奔波的一切，我总想弄清楚大家想到哪，是什么动力推使如今这个社会机器运转起来。&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">king6cong</dc:creator><pubDate>Fri, 25 Oct 2013 22:47:54 +0800</pubDate><guid>tag:blog.bungeer.com,2013-10-25:life-style.html</guid><category>lifestyle</category></item><item><title>嵌入优酷html5视频</title><link>http://blog.bungeer.com/bungeer-video-html5.html</link><description>&lt;p&gt;视频是一种非常有效的表达方式：&lt;/p&gt;
+&lt;p&gt;谁知道从文明诞生就跟随着我们的各种各样的信息载体的究极形态呢？&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">king6cong</dc:creator><pubDate>Wed, 30 Oct 2013 10:20:00 +0800</pubDate><guid>tag:blog.bungeer.com,2013-10-30:about-tech.html</guid><category>blog</category></item><item><title>优酷视频html5嵌入代码</title><link>http://blog.bungeer.com/bungeer-video-html5.html</link><description>&lt;p&gt;视频是一种非常有效的表达方式：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;在博客上用视频表达一些观点&lt;/li&gt;
-&lt;li&gt;在产品页提供demo视频，让用户更快了解产品，比如&amp;nbsp;[Bungeer视频app][1]&lt;/li&gt;
+&lt;li&gt;在产品页提供demo视频，让用户更快了解产品，比如 &lt;a href="http://bungeer.com/app/android"&gt;Bungeer&amp;nbsp;app&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;虽然可以将视频放在自己的server上，但对于非专攻视频的站点:&lt;/p&gt;
 &lt;ol&gt;
@@ -91,46 +38,129 @@
 &lt;li&gt;短视频的广告较长。视频网站运营费用很高，有广告是非常能让人理解的。但对于短视频，个人认为，可以考虑缩短广告时间。如果广告比视频还长，的确比较尴尬。&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;在实际使用中，如果官网高端大气上档次，demo视频却以广告开场，也挺雷人的。&lt;/p&gt;
-&lt;p&gt;在开发Bungeer视频的过程中，提取了这样一个工具，能将优酷视频以html5方式嵌入自己的页面中，播放器使用的是&amp;nbsp;[video.js][2]&lt;/p&gt;
+&lt;p&gt;在开发Bungeer视频的过程中，提取了这样一个工具，能将优酷视频以html5方式嵌入自己的页面中，播放器使用的是 &lt;a href="http://www.videojs.com"&gt;video.js&lt;/a&gt;&lt;/p&gt;
 &lt;h4&gt;how to&amp;nbsp;use：&lt;/h4&gt;
-&lt;p&gt;1.优酷视频url，以及封面（可选），可以嵌入多个视频&lt;/p&gt;
+&lt;p&gt;1.优酷视频url，以及封面（可选），支持嵌入多个视频&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;&amp;lt;div&lt;/span&gt; &lt;span class="na"&gt;class=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;bungeer_video_html5&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://v.youku.com/v_show/id_XNjEyODk1MzM2.html&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;poster=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://www.bungeer.com/static/img/web_hi_res_512.png&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;p&gt;2.最后引入jQuery以及video_html5.js&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;&amp;lt;script&amp;gt;&lt;/span&gt;window.jQuery || document.write(&amp;#39;&lt;span class="nt"&gt;&amp;lt;script&lt;/span&gt; &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://codeorigin.jquery.com/jquery-1.10.2.min.js&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;&lt;span class="err"&gt;&amp;lt;&lt;/span&gt;\/script&amp;gt;&amp;#39;)&lt;span class="nt"&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
-&lt;span class="nt"&gt;&amp;lt;script&lt;/span&gt; &lt;span class="na"&gt;type=&lt;/span&gt;&lt;span class="s"&gt;text/javascript&lt;/span&gt;  &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://www.bungeer.com/static/js/video_html5.js&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;script&lt;/span&gt; &lt;span class="na"&gt;type=&lt;/span&gt;&lt;span class="s"&gt;text/javascript&lt;/span&gt;  &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://bungeer.com/static/js/video_html5.js&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;p&gt;示例：&lt;/p&gt;
-&lt;div class="bungeer_video_html5" href="http://v.youku.com/v_show/id_XNjEyODk1MzM2.html" poster="http://www.bungeer.com/static/img/web_hi_res_512.png"&gt;&lt;/div&gt;
-
-&lt;div class="bungeer_video_html5" href="http://v.youku.com/v_show/id_XNjI3OTA0MzQ4.html" poster="http://www.bungeer.com/static/img/web_hi_res_512.png"&gt;&lt;/div&gt;
-
+&lt;p&gt;视频一
+&lt;div class="bungeer_video_html5" href="http://v.youku.com/v_show/id_XNjEyODk1MzM2.html" poster="http://www.bungeer.com/static/img/web_hi_res_512.png"&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;视频二
+&lt;div class="bungeer_video_html5" href="http://v.youku.com/v_show/id_XNjI3OTA0MzQ4.html" poster="http://www.bungeer.com/static/img/web_hi_res_512.png"&gt;&lt;/div&gt;&lt;/p&gt;
 &lt;script&gt;window.jQuery || document.write('&lt;script src="http://codeorigin.jquery.com/jquery-1.10.2.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
 
-&lt;script type=text/javascript  src="http://www.bungeer.com/static/js/video_html5.js"&gt;&lt;/script&gt;
-
-
-
-
-
-
-[1]: http://bungeer.com/app/android
-[2]:&amp;nbsp;http://www.videojs.com</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">king6cong</dc:creator><pubDate>Wed, 23 Oct 2013 10:20:00 +0800</pubDate><guid>tag:blog.bungeer.com,2013-10-23:bungeer-video-html5.html</guid><category>javascript</category></item><item><title>Bungeer博客</title><link>http://blog.bungeer.com/why-this-blog-is-opened.html</link><description>&lt;p&gt;&lt;strong&gt;Bungeer，蹦极者&lt;/strong&gt;&lt;/p&gt;
+&lt;script type=text/javascript  src="http://bungeer.com/static/js/video_html5.js"&gt;&lt;/script&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">king6cong</dc:creator><pubDate>Wed, 23 Oct 2013 10:20:00 +0800</pubDate><guid>tag:blog.bungeer.com,2013-10-23:bungeer-video-html5.html</guid><category>javascript</category></item><item><title>技能和遗忘</title><link>http://blog.bungeer.com/about-skill.html</link><description>&lt;p&gt;遗忘这个问题经常困扰自己。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;曾经苦心孤诣研究网络安全和hacker&amp;nbsp;tools，而后精力放在其他领域。回头一看，脑中可以直接揪出来的只剩下nmap这些常用的东西。&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;也心血来潮的抓起 &lt;a href="http://www.amazon.com/Mathematics-Elementary-Approach-Ideas-Methods/dp/0195105192" title="What Is Mathematics? An Elementary Approach to Ideas and Methods"&gt;What Is Mathematics? An Elementary Approach to Ideas and Methods&lt;/a&gt;&amp;nbsp;,一次次的醍醐灌顶，茅塞顿开之后，遗忘也是必然结局。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;很多时候，遇到一些场景，大体方向心里清楚，但具体到细节，又模模糊糊&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;很多经常使用的技能，冷却时间稍长，居然使不出来了&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;每个技能都是付出时间精力才获取的，用到时发现已经忘记了确实很让人懊恼。但无奈行囊就这么大，除去贴身的，其余只能暂时留下。&lt;/p&gt;
+&lt;p&gt;人脑是一个拥有各级缓存的存储器，最容易读取的是最近使用的记忆。无论怎样博览群书，阅历无限，信手拈来的永远是最近得来的信息。多年的大脑使用经验告诉我，&lt;strong&gt;尘封的记忆&lt;/strong&gt;这个描述简直太贴切了：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我们可以得到有技能，但关键时刻能够立即施展出来的永远是最近经常使用的&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;但人脑很神奇，即使会遗忘，真正理解的东西会留下丝缕痕迹。再次获取它们的时候，总能轻车熟路，快速恢复元气。这些痕迹才是宝贵的财富。&lt;/p&gt;
+&lt;p&gt;如果所有关键信息点都被这些痕迹囊括，那么就真正通晓这个技能了：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;本身不需要思考就可以使用&lt;/li&gt;
+&lt;li&gt;又可以通过它衍生创造其他内容&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;所以知识获取的本质就是获取这些关键点的痕迹。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;这些关键点痕迹是“实”，支撑起整个体系，让我们按图索骥，信手拈来&lt;/li&gt;
+&lt;li&gt;其余是”形“，可以想想背诵一篇还未读过的文章，即使短时间记住了每句话，几小时后，这些内容就销声匿迹，无处可寻了。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;遗忘不可怕，但要有自信很容易获拾回它们。而经历几次各种轮回，这些技能就成了本能。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;温故而知新&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;说的大概就是这个事情。思考多次，体会越来越深，痕迹越来越多，一旦达到了通晓的临界点，技能就是就是永久财产了。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;身处信息时代，获取信息从来没有像现在这样容易，我们的知识领域被极大的扩大了。&lt;/p&gt;
+&lt;p&gt;信息获取极度容易，需要判断那些东西需要放在脑中，哪些可以用时再查阅，不要妄图记下所有事情，费心费力。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;最后我觉得对遗忘有以下需要注意的地方：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;面试前把自己承诺的技能温习一遍，即使可以在工作时可以顺畅施展，也会有一时记不起来的细节，说不清楚会很尴尬，也让人对自己有所怀疑。&lt;/li&gt;
+&lt;li&gt;写博客，记录获取技能的过程，利人利己，而且，雁过留痕，既然没法保持一直飞翔，那么至少留点东西证明自己飞过&amp;nbsp;：）&lt;/li&gt;
+&lt;/ol&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">king6cong</dc:creator><pubDate>Sun, 06 Oct 2013 10:20:00 +0800</pubDate><guid>tag:blog.bungeer.com,2013-10-06:about-skill.html</guid><category>学习</category></item><item><title>非哲学家的人生观</title><link>http://blog.bungeer.com/life-style.html</link><description>&lt;p&gt;虽不是哲学家，有时也会思考自己的人生。也许天生怀旧，回忆的味道总觉得甜美，让人心里舒畅，感慨着物是人非，琢磨着今昔对比。&lt;/p&gt;
+&lt;p&gt;成长似乎有着许多截然不同的阶段，每个阶段又有几个特别清晰的片段。认真想想，人生真是沉淀在那些片段中。若一辈子是电影，那电影的长度取决于这些片段。它们是轨迹。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;父母的温柔严厉，老师的表扬教育，伙伴的嬉戏打闹，这是童年。心里干净得像北极的雪，一个玩伴就是全世界的快乐；&lt;/li&gt;
+&lt;li&gt;课业的逐步繁重，情窦的含苞待放；未来的美好憧憬，这是中学。眼界单纯得似是肥皂泡，一支笔杆想要撼动宇宙；&lt;/li&gt;
+&lt;li&gt;都市的灯红酒绿，做事的天马行空，父母的苦口婆心，这是大学；羽翼未丰的独鸟，才拍翅膀就想一鸣惊人；&lt;/li&gt;
+&lt;li&gt;面试的忙忙碌碌，得到offer的欣喜若狂，工作得兢兢业业，这是初入职场。如刚睁眼的婴儿，第一次清楚看到这个世界。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;然后猛一回首，不知不觉已工作几年。生活规律地有似乎些单调，内容可以一笔带过。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;ul&gt;
+&lt;li&gt;小时候，父母的庇护下的日子总是过于舒适，躲在父母身后，收获的是人生最珍贵的片段。  &lt;/li&gt;
+&lt;li&gt;离家的日子从大学开始。那段岁月虽溜走悄无声息，但还是留下了些许印记。过的荒唐，但美丽。&lt;/li&gt;
+&lt;li&gt;初入职场的日子，满腔热情，想释放所有才华，奉献一切精力。想证明自己。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这些都很美。&amp;nbsp;但漫长的工作却磨灭了最初的激情。越发觉得是在雾里小跑，一刻不停，但却望不到终点，也看不清身边。留在身上的，只有湿漉漉的现实。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;一步步，不知对错，但也按部就班，有条不紊。每个阶段无疑都是成长了什么，也似乎丢掉了些什么。  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;一条路，一个人走，每一步都有自己的理由；  &lt;/li&gt;
+&lt;li&gt;一条路，一群人走，大家却抑或被推搡着，身不由己；抑或是紧跟着，亦步亦趋。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;群体的力量让我们生存下来；但也是我们过度同化，大家循规蹈矩，不敢越雷池一步，像粉笔圈起来的蚂蚁，虽一刻不停，但结局显而易见。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;我不标新立异，一步步跟着众人的脚步，思考不多，但走得坚定;&lt;/li&gt;
+&lt;li&gt;我安于现状。即使自学不上课，也安稳呆到大学毕业。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;但越发挣扎着，想看到人群外的世界。我觉得，迷失了。&lt;/p&gt;
+&lt;p&gt;人生本质不应只有哲学家才需思考。我们正在丧失人生的控制权，速度越来越快，程度越来越高。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h4&gt;怎样的人生才算成功？&lt;/h4&gt;
+&lt;p&gt;有时思考是什么让我们忙忙碌碌，让我们烦躁不安，走在路上，看着来往匆匆的人群，看着一张张毫无生气的脸，看着川流不息的车辆。看着四处奔波的一切，我总想弄清楚大家想到哪，是什么动力推使如今这个社会机器运转起来。&lt;/p&gt;
+&lt;p&gt;人生本来就是一个过程，从出生开始，以死亡结束，本是一个水到渠成的旅行，却被人们强加上林林总总的目的，设立形形色色的标准。各种成功人士成功学的光辉笼罩下，普通人的失败人生暴露无疑。这种标准下，成功者总是少数，莫非我们大多数人生下来仅仅是为了做一个微不足道的失败者？&lt;/p&gt;
+&lt;p&gt;人生不应该是为了北京的一个户口一套房；也不应该是为了万众瞩目全民朝拜；人生应该很简单，过程舒适，心里安宁，按着自己的节奏朝着自己喜欢的方向走，这样就好。起码，自己的人生自己走过。我们需要找到活下去和活得好的平衡点。&lt;/p&gt;
+&lt;p&gt;人是欲望驱使的动物，满足会带来幸福感，有幸福感的人生才成功。&lt;/p&gt;
+&lt;p&gt;幸福很简单，小时候特别喜欢看书，晚上躺在床上，最好窗外还有淅沥沥的雨声，在柔和的灯光下，捧起一本沉甸甸的厚书，这就是是世界上最惬意的事情了。心里想着，长大后，也能这样就好了。那一刻幸福指数爆棚。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h4&gt;假如真有那个时代&lt;/h4&gt;
+&lt;p&gt;假使我们这的到了那个梦想时代，一切资源的问题都已经解决：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;技术的积累以及自动化已经能够保证经济平稳发展，无需人类参与。&lt;/li&gt;
+&lt;li&gt;货币不复存在，人们可以随意无代价获取需要的物质资料&lt;/li&gt;
+&lt;li&gt;工作非必要，选择工作是为了满足个人兴趣&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;如果不需要为了一日三餐，全家老小，养老温饱这些生存的问题而将自己所有时间包月出售，我们应当怎样度过人生？&lt;/p&gt;
+&lt;p&gt;我们的大多数人没有想过这个问题，包月出售自己的时间，按部就班，然后不知不觉走到生命尽头。这也为我们省去了思考的必要。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;一切终究回归尘土，重要的是过程中的人生体验。满足生存必然重要，但不要忘记追寻真正的精彩。&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">king6cong</dc:creator><pubDate>Thu, 03 Oct 2013 10:20:00 +0800</pubDate><guid>tag:blog.bungeer.com,2013-10-03:life-style.html</guid><category>人生</category></item><item><title>Bungeer博客</title><link>http://blog.bungeer.com/why-this-blog-is-opened.html</link><description>&lt;p&gt;&lt;strong&gt;Bungeer，蹦极者&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;很喜欢这样一句话，意思大概是这样的：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;跳下悬崖后开始造飞机&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;我们崇尚循规蹈矩，总期望着一切准备就绪，而后一鸣惊人。而我们的激情，机会也在无尽的等待中逐渐磨灭。&lt;/p&gt;
 &lt;p&gt;我们亲身经历了一场伟大的信息革命，看到了无数的潮起潮落。我们总是习惯与冷眼旁观，而就在我们指点江山的时候，变化依旧在实实在在地发生着。&lt;/p&gt;
-&lt;p&gt;当年看完 &lt;a href="http://movie.douban.com/subject/3205624/"&gt;社交网络 The Social Network&lt;/a&gt; ,感慨万千，最大的感受是人家付诸行动了。&lt;strong&gt;Do&lt;/strong&gt; it and &lt;strong&gt;learn&lt;/strong&gt; it in the&amp;nbsp;process.&lt;/p&gt;
-&lt;p&gt;即刻启程，俯身一跳的同时，也完成了旁观者到参与者的华丽蜕变。&lt;/p&gt;
+&lt;p&gt;当年看完 &lt;a href="http://movie.douban.com/subject/3205624/"&gt;社交网络 The Social Network&lt;/a&gt;&amp;nbsp;,感慨万千，最大的感受是：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;人家付诸行动,在需求中驱动学习;&lt;/li&gt;
+&lt;li&gt;而自己为了学而学，不知何种程度才算准备好可以行动。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Do&lt;/strong&gt; it &lt;strong&gt;right now&lt;/strong&gt; and &lt;strong&gt;learn&lt;/strong&gt; it in the&amp;nbsp;process.&lt;/p&gt;
+&lt;p&gt;即刻启程。俯身一跳的同时，也完成了旁观者到参与者的华丽蜕变。&lt;/p&gt;
 &lt;p&gt;这就是蹦极。&lt;/p&gt;
-&lt;p&gt;我想通过这个项目产生一些我们真正需要的东西，让它产生一些价值。&lt;/p&gt;
+&lt;p&gt;我希望这个项目能：&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;产生一些有使用价值的产品，做自己想要，别人需要的产品&lt;/li&gt;
-&lt;li&gt;输出一些有帮助的信息，总结自己，帮助别人&lt;/li&gt;
+&lt;li&gt;产生一些有使用价值，自己想要，别人需要的产品&lt;/li&gt;
+&lt;li&gt;总结自己，帮助别人，输出一些有帮助的信息&lt;/li&gt;
 &lt;/ol&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">king6cong</dc:creator><pubDate>Tue, 01 Oct 2013 10:20:00 +0800</pubDate><guid>tag:blog.bungeer.com,2013-10-01:why-this-blog-is-opened.html</guid><category>blog</category></item></channel></rss>

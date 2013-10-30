@@ -2,7 +2,7 @@
 <html lang="cn">
 <head>
 
-        <title>嵌入优酷html5视频</title>
+        <title>优酷视频html5嵌入代码</title>
         <meta charset="utf-8" />
         <link href="http://blog.bungeer.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Bungeer Full Atom Feed" />
         <link href="http://blog.bungeer.com/feeds/all.rss.xml" type="application/rss+xml" rel="alternate" title="Bungeer Full RSS Feed" />
@@ -56,7 +56,7 @@
             <header>
               <h2 class="entry-title">
                 <a href="http://blog.bungeer.com/bungeer-video-html5.html" rel="bookmark"
-                   title="Permalink to 嵌入优酷html5视频">嵌入优酷html5视频</a></h2>
+                   title="Permalink to 优酷视频html5嵌入代码">优酷视频html5嵌入代码</a></h2>
            
             </header>
             <footer class="post-info">
@@ -71,7 +71,7 @@
               <p>视频是一种非常有效的表达方式：</p>
 <ol>
 <li>在博客上用视频表达一些观点</li>
-<li>在产品页提供demo视频，让用户更快了解产品，比如&nbsp;[Bungeer视频app][1]</li>
+<li>在产品页提供demo视频，让用户更快了解产品，比如 <a href="http://bungeer.com/app/android">Bungeer&nbsp;app</a></li>
 </ol>
 <p>虽然可以将视频放在自己的server上，但对于非专攻视频的站点:</p>
 <ol>
@@ -85,35 +85,27 @@
 <li>短视频的广告较长。视频网站运营费用很高，有广告是非常能让人理解的。但对于短视频，个人认为，可以考虑缩短广告时间。如果广告比视频还长，的确比较尴尬。</li>
 </ol>
 <p>在实际使用中，如果官网高端大气上档次，demo视频却以广告开场，也挺雷人的。</p>
-<p>在开发Bungeer视频的过程中，提取了这样一个工具，能将优酷视频以html5方式嵌入自己的页面中，播放器使用的是&nbsp;[video.js][2]</p>
+<p>在开发Bungeer视频的过程中，提取了这样一个工具，能将优酷视频以html5方式嵌入自己的页面中，播放器使用的是 <a href="http://www.videojs.com">video.js</a></p>
 <h4>how to&nbsp;use：</h4>
-<p>1.优酷视频url，以及封面（可选），可以嵌入多个视频</p>
+<p>1.优酷视频url，以及封面（可选），支持嵌入多个视频</p>
 <div class="highlight"><pre><span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;bungeer_video_html5&quot;</span> <span class="na">href=</span><span class="s">&quot;http://v.youku.com/v_show/id_XNjEyODk1MzM2.html&quot;</span> <span class="na">poster=</span><span class="s">&quot;http://www.bungeer.com/static/img/web_hi_res_512.png&quot;</span><span class="nt">&gt;&lt;/div&gt;</span>
 </pre></div>
 
 
 <p>2.最后引入jQuery以及video_html5.js</p>
 <div class="highlight"><pre><span class="nt">&lt;script&gt;</span>window.jQuery || document.write(&#39;<span class="nt">&lt;script</span> <span class="na">src=</span><span class="s">&quot;http://codeorigin.jquery.com/jquery-1.10.2.min.js&quot;</span><span class="nt">&gt;</span><span class="err">&lt;</span>\/script&gt;&#39;)<span class="nt">&lt;/script&gt;</span>
-<span class="nt">&lt;script</span> <span class="na">type=</span><span class="s">text/javascript</span>  <span class="na">src=</span><span class="s">&quot;http://www.bungeer.com/static/js/video_html5.js&quot;</span><span class="nt">&gt;&lt;/script&gt;</span>
+<span class="nt">&lt;script</span> <span class="na">type=</span><span class="s">text/javascript</span>  <span class="na">src=</span><span class="s">&quot;http://bungeer.com/static/js/video_html5.js&quot;</span><span class="nt">&gt;&lt;/script&gt;</span>
 </pre></div>
 
 
 <p>示例：</p>
-<div class="bungeer_video_html5" href="http://v.youku.com/v_show/id_XNjEyODk1MzM2.html" poster="http://www.bungeer.com/static/img/web_hi_res_512.png"></div>
-
-<div class="bungeer_video_html5" href="http://v.youku.com/v_show/id_XNjI3OTA0MzQ4.html" poster="http://www.bungeer.com/static/img/web_hi_res_512.png"></div>
-
+<p>视频一
+<div class="bungeer_video_html5" href="http://v.youku.com/v_show/id_XNjEyODk1MzM2.html" poster="http://www.bungeer.com/static/img/web_hi_res_512.png"></div></p>
+<p>视频二
+<div class="bungeer_video_html5" href="http://v.youku.com/v_show/id_XNjI3OTA0MzQ4.html" poster="http://www.bungeer.com/static/img/web_hi_res_512.png"></div></p>
 <script>window.jQuery || document.write('<script src="http://codeorigin.jquery.com/jquery-1.10.2.min.js"><\/script>')</script>
 
-<script type=text/javascript  src="http://www.bungeer.com/static/js/video_html5.js"></script>
-
-
-
-
-
-
-[1]: http://bungeer.com/app/android
-[2]:&nbsp;http://www.videojs.com
+<script type=text/javascript  src="http://bungeer.com/static/js/video_html5.js"></script>
             </div><!-- /.entry-content -->
             <div class="comments">
               <h3>Comments</h3>
@@ -140,18 +132,18 @@
 
 <h4>Categories</h4>
 <ul>
-		<li><a href="http://blog.bungeer.com/category/books.html">Books</a></li>
 		<li><a href="http://blog.bungeer.com/category/magic-tools.html">Magic tools</a></li>
-		<li><a href="http://blog.bungeer.com/category/thinking.html">Thinking</a></li>
+		<li><a href="http://blog.bungeer.com/category/si-kao.html">思考</a></li>
+		<li><a href="http://blog.bungeer.com/category/ti-hui.html">体会</a></li>
 </ul>
 
 
 <h4>Tags</h4>
 	<ul>
-	    <li class="tag-4"><a href="http://blog.bungeer.com/tag/lifestyle.html">lifestyle</a></li>
-	    <li class="tag-4"><a href="http://blog.bungeer.com/tag/javascript.html">javascript</a></li>
-	    <li class="tag-4"><a href="http://blog.bungeer.com/tag/skill.html">skill</a></li>
+	    <li class="tag-4"><a href="http://blog.bungeer.com/tag/ren-sheng.html">人生</a></li>
 	    <li class="tag-1"><a href="http://blog.bungeer.com/tag/blog.html">blog</a></li>
+	    <li class="tag-4"><a href="http://blog.bungeer.com/tag/xue-xi.html">学习</a></li>
+	    <li class="tag-4"><a href="http://blog.bungeer.com/tag/javascript.html">javascript</a></li>
 </ul>
 
 

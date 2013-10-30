@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Bungeer</title><link href="http://blog.bungeer.com/" rel="alternate"></link><link href="http://blog.bungeer.com/feeds/magic-tools.atom.xml" rel="self"></link><id>http://blog.bungeer.com/</id><updated>2013-10-23T10:20:00+08:00</updated><entry><title>嵌入优酷html5视频</title><link href="http://blog.bungeer.com/bungeer-video-html5.html" rel="alternate"></link><updated>2013-10-23T10:20:00+08:00</updated><author><name>king6cong</name></author><id>tag:blog.bungeer.com,2013-10-23:bungeer-video-html5.html</id><summary type="html">&lt;p&gt;视频是一种非常有效的表达方式：&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Bungeer</title><link href="http://blog.bungeer.com/" rel="alternate"></link><link href="http://blog.bungeer.com/feeds/magic-tools.atom.xml" rel="self"></link><id>http://blog.bungeer.com/</id><updated>2013-10-23T10:20:00+08:00</updated><entry><title>优酷视频html5嵌入代码</title><link href="http://blog.bungeer.com/bungeer-video-html5.html" rel="alternate"></link><updated>2013-10-23T10:20:00+08:00</updated><author><name>king6cong</name></author><id>tag:blog.bungeer.com,2013-10-23:bungeer-video-html5.html</id><summary type="html">&lt;p&gt;视频是一种非常有效的表达方式：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;在博客上用视频表达一些观点&lt;/li&gt;
-&lt;li&gt;在产品页提供demo视频，让用户更快了解产品，比如&amp;nbsp;[Bungeer视频app][1]&lt;/li&gt;
+&lt;li&gt;在产品页提供demo视频，让用户更快了解产品，比如 &lt;a href="http://bungeer.com/app/android"&gt;Bungeer&amp;nbsp;app&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;虽然可以将视频放在自己的server上，但对于非专攻视频的站点:&lt;/p&gt;
 &lt;ol&gt;
@@ -16,32 +16,24 @@
 &lt;li&gt;短视频的广告较长。视频网站运营费用很高，有广告是非常能让人理解的。但对于短视频，个人认为，可以考虑缩短广告时间。如果广告比视频还长，的确比较尴尬。&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;在实际使用中，如果官网高端大气上档次，demo视频却以广告开场，也挺雷人的。&lt;/p&gt;
-&lt;p&gt;在开发Bungeer视频的过程中，提取了这样一个工具，能将优酷视频以html5方式嵌入自己的页面中，播放器使用的是&amp;nbsp;[video.js][2]&lt;/p&gt;
+&lt;p&gt;在开发Bungeer视频的过程中，提取了这样一个工具，能将优酷视频以html5方式嵌入自己的页面中，播放器使用的是 &lt;a href="http://www.videojs.com"&gt;video.js&lt;/a&gt;&lt;/p&gt;
 &lt;h4&gt;how to&amp;nbsp;use：&lt;/h4&gt;
-&lt;p&gt;1.优酷视频url，以及封面（可选），可以嵌入多个视频&lt;/p&gt;
+&lt;p&gt;1.优酷视频url，以及封面（可选），支持嵌入多个视频&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;&amp;lt;div&lt;/span&gt; &lt;span class="na"&gt;class=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;bungeer_video_html5&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://v.youku.com/v_show/id_XNjEyODk1MzM2.html&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;poster=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://www.bungeer.com/static/img/web_hi_res_512.png&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;p&gt;2.最后引入jQuery以及video_html5.js&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;&amp;lt;script&amp;gt;&lt;/span&gt;window.jQuery || document.write(&amp;#39;&lt;span class="nt"&gt;&amp;lt;script&lt;/span&gt; &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://codeorigin.jquery.com/jquery-1.10.2.min.js&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;&lt;span class="err"&gt;&amp;lt;&lt;/span&gt;\/script&amp;gt;&amp;#39;)&lt;span class="nt"&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
-&lt;span class="nt"&gt;&amp;lt;script&lt;/span&gt; &lt;span class="na"&gt;type=&lt;/span&gt;&lt;span class="s"&gt;text/javascript&lt;/span&gt;  &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://www.bungeer.com/static/js/video_html5.js&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;script&lt;/span&gt; &lt;span class="na"&gt;type=&lt;/span&gt;&lt;span class="s"&gt;text/javascript&lt;/span&gt;  &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://bungeer.com/static/js/video_html5.js&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;p&gt;示例：&lt;/p&gt;
-&lt;div class="bungeer_video_html5" href="http://v.youku.com/v_show/id_XNjEyODk1MzM2.html" poster="http://www.bungeer.com/static/img/web_hi_res_512.png"&gt;&lt;/div&gt;
-
-&lt;div class="bungeer_video_html5" href="http://v.youku.com/v_show/id_XNjI3OTA0MzQ4.html" poster="http://www.bungeer.com/static/img/web_hi_res_512.png"&gt;&lt;/div&gt;
-
+&lt;p&gt;视频一
+&lt;div class="bungeer_video_html5" href="http://v.youku.com/v_show/id_XNjEyODk1MzM2.html" poster="http://www.bungeer.com/static/img/web_hi_res_512.png"&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;视频二
+&lt;div class="bungeer_video_html5" href="http://v.youku.com/v_show/id_XNjI3OTA0MzQ4.html" poster="http://www.bungeer.com/static/img/web_hi_res_512.png"&gt;&lt;/div&gt;&lt;/p&gt;
 &lt;script&gt;window.jQuery || document.write('&lt;script src="http://codeorigin.jquery.com/jquery-1.10.2.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
 
-&lt;script type=text/javascript  src="http://www.bungeer.com/static/js/video_html5.js"&gt;&lt;/script&gt;
-
-
-
-
-
-
-[1]: http://bungeer.com/app/android
-[2]:&amp;nbsp;http://www.videojs.com</summary><category term="javascript"></category></entry></feed>
+&lt;script type=text/javascript  src="http://bungeer.com/static/js/video_html5.js"&gt;&lt;/script&gt;</summary><category term="javascript"></category></entry></feed>
