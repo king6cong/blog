@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Bungeer</title><link href="http://blog.bungeer.com/" rel="alternate"></link><link href="http://blog.bungeer.com/feeds/ti-hui.atom.xml" rel="self"></link><id>http://blog.bungeer.com/</id><updated>2013-10-06T10:20:00+08:00</updated><entry><title>技能和遗忘</title><link href="http://blog.bungeer.com/about-skill.html" rel="alternate"></link><updated>2013-10-06T10:20:00+08:00</updated><author><name>king6cong</name></author><id>tag:blog.bungeer.com,2013-10-06:about-skill.html</id><summary type="html">&lt;p&gt;遗忘这个问题经常困扰自己。&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Bungeer Blog</title><link href="http://blog.bungeer.com/" rel="alternate"></link><link href="http://blog.bungeer.com/feeds/ti-hui.atom.xml" rel="self"></link><id>http://blog.bungeer.com/</id><updated>2013-10-06T10:20:00+08:00</updated><entry><title>技能和遗忘</title><link href="http://blog.bungeer.com/about-skill.html" rel="alternate"></link><updated>2013-10-06T10:20:00+08:00</updated><author><name>king6cong</name></author><id>tag:blog.bungeer.com,2013-10-06:about-skill.html</id><summary type="html">&lt;p&gt;遗忘这个问题经常困扰自己。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;曾经苦心孤诣研究网络安全和hacker&amp;nbsp;tools，而后精力放在其他领域。回头一看，脑中可以直接揪出来的只剩下nmap这些常用的东西。&lt;/li&gt;
 &lt;li&gt;
@@ -38,7 +38,7 @@
 &lt;ol&gt;
 &lt;li&gt;面试前把自己承诺的技能温习一遍，即使可以在工作时可以顺畅施展，也会有一时记不起来的细节，说不清楚会很尴尬，也让人对自己有所怀疑。&lt;/li&gt;
 &lt;li&gt;写博客，记录获取技能的过程，利人利己，而且，雁过留痕，既然没法保持一直飞翔，那么至少留点东西证明自己飞过&amp;nbsp;：）&lt;/li&gt;
-&lt;/ol&gt;</summary><category term="学习"></category></entry><entry><title>Bungeer博客</title><link href="http://blog.bungeer.com/why-this-blog-is-opened.html" rel="alternate"></link><updated>2013-10-01T10:20:00+08:00</updated><author><name>king6cong</name></author><id>tag:blog.bungeer.com,2013-10-01:why-this-blog-is-opened.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;Bungeer，蹦极者&lt;/strong&gt;&lt;/p&gt;
+&lt;/ol&gt;</summary><category term=""></category></entry><entry><title>Bungeer博客</title><link href="http://blog.bungeer.com/why-this-blog-is-opened.html" rel="alternate"></link><updated>2013-10-01T10:20:00+08:00</updated><author><name>king6cong</name></author><id>tag:blog.bungeer.com,2013-10-01:why-this-blog-is-opened.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;Bungeer，蹦极者&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;很喜欢这样一句话，意思大概是这样的：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;跳下悬崖后开始造飞机&lt;/p&gt;
