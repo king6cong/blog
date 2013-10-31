@@ -18,8 +18,8 @@
 &lt;p&gt;在实际使用中，如果官网高端大气上档次，demo视频却以广告开场，也挺雷人的。&lt;/p&gt;
 &lt;p&gt;在开发Bungeer视频的过程中，提取了这样一个工具，能将优酷视频以html5方式嵌入自己的页面中，播放器使用的是 &lt;a href="http://www.videojs.com"&gt;video.js&lt;/a&gt;&lt;/p&gt;
 &lt;h4&gt;how to&amp;nbsp;use：&lt;/h4&gt;
-&lt;p&gt;1.优酷视频url，以及封面（可选），支持嵌入多个视频&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;&amp;lt;div&lt;/span&gt; &lt;span class="na"&gt;class=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;bungeer_video_html5&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://v.youku.com/v_show/id_XNjEyODk1MzM2.html&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;poster=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://www.bungeer.com/static/img/web_hi_res_512.png&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;p&gt;1.优酷视频url，以及封面，播放器尺寸（可选），支持同时嵌入多个视频&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;&amp;lt;div&lt;/span&gt; &lt;span class="na"&gt;class=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;bungeer_video_html5&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://v.youku.com/v_show/id_XNjEyODk1MzM2.html&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;poster=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://www.bungeer.com/static/img/web_hi_res_512.png&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;width=&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;640&amp;#39;&lt;/span&gt; &lt;span class="na"&gt;height=&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;360&amp;#39;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
 
@@ -30,10 +30,20 @@
 
 
 &lt;p&gt;示例：&lt;/p&gt;
-&lt;p&gt;视频一
-&lt;div class="bungeer_video_html5" href="http://v.youku.com/v_show/id_XNjEyODk1MzM2.html" poster="http://www.bungeer.com/static/img/web_hi_res_512.png"&gt;&lt;/div&gt;&lt;/p&gt;
-&lt;p&gt;视频二
-&lt;div class="bungeer_video_html5" href="http://v.youku.com/v_show/id_XNjI3OTA0MzQ4.html" poster="http://www.bungeer.com/static/img/web_hi_res_512.png"&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;视频一&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;&amp;lt;div&lt;/span&gt; &lt;span class="na"&gt;class=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;bungeer_video_html5&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://v.youku.com/v_show/id_XNjEyODk1MzM2.html&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;poster=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://www.bungeer.com/static/img/web_hi_res_512.png&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;width=&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;640&amp;#39;&lt;/span&gt; &lt;span class="na"&gt;height=&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;360&amp;#39;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;div class="bungeer_video_html5" href="http://v.youku.com/v_show/id_XNjEyODk1MzM2.html" poster="http://www.bungeer.com/static/img/web_hi_res_512.png" width='640' height='360'&gt;&lt;/div&gt;
+
+&lt;p&gt;视频二&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;&amp;lt;div&lt;/span&gt; &lt;span class="na"&gt;class=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;bungeer_video_html5&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://v.youku.com/v_show/id_XNjI3OTA0MzQ4.html&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;poster=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://www.bungeer.com/static/img/web_hi_res_512.png&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;width=&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;320&amp;#39;&lt;/span&gt; &lt;span class="na"&gt;height=&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;180&amp;#39;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;div class="bungeer_video_html5" href="http://v.youku.com/v_show/id_XNjI3OTA0MzQ4.html" poster="http://www.bungeer.com/static/img/web_hi_res_512.png" width='320' height='180'&gt;&lt;/div&gt;
+
 &lt;script&gt;window.jQuery || document.write('&lt;script src="http://codeorigin.jquery.com/jquery-1.10.2.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
 
 &lt;script type=text/javascript  src="http://bungeer.com/static/js/video_html5.js"&gt;&lt;/script&gt;</summary><category term="javascript"></category></entry></feed>
