@@ -23,7 +23,7 @@
 &lt;/pre&gt;&lt;/div&gt;
 
 
-&lt;p&gt;2.最后在后面引入jQuery以及video_html5.js&lt;/p&gt;
+&lt;p&gt;2.最后&lt;strong&gt;在后面&lt;/strong&gt;引入jQuery以及video_html5.js&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;&amp;lt;script&amp;gt;&lt;/span&gt;window.jQuery || document.write(&amp;#39;&lt;span class="nt"&gt;&amp;lt;script&lt;/span&gt; &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://codeorigin.jquery.com/jquery-1.10.2.min.js&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;&lt;span class="err"&gt;&amp;lt;&lt;/span&gt;\/script&amp;gt;&amp;#39;)&lt;span class="nt"&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
 &lt;span class="nt"&gt;&amp;lt;script&lt;/span&gt; &lt;span class="na"&gt;type=&lt;/span&gt;&lt;span class="s"&gt;text/javascript&lt;/span&gt;  &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://bungeer.com/static/js/video_html5.js&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
